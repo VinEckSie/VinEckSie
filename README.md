@@ -11,7 +11,7 @@ VincentEckSie/VincentEckSie is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-# Hello there 👋, I'm Colin But
+# Hello there 👋, I'm Vincent Eckert Sierota
 
 ### Software/DevOps/Platform Engineer
 
