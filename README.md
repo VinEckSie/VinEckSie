@@ -1,25 +1,86 @@
-- 👋 Hi, I’m @VincentEckSie
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 VincentEckSie/VincentEckSie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
+
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vincent Eckert Sierota
+==============================================================================================================================================
+
+Power Platform Engineer
+-----------------------
+
+
+Embarking on a new path after a decade-long career as a Microsoft Dynamics 365 developer, with the goal of mastering the Microsoft Power Platform.  
+Excited to explore Power Apps, Power Automate, and Power BI to drive innovation.      
+Let's collaborate on unleashing the full potential of the Power Platform. Ready to embark on this new journey of growth and impact.
+
+* 🌍  I'm based in Salzburg
+* 🖥️  See my portfolio at [my portoflio](http://myportfolil.com)
+* ✉️  You can contact me at [vinecksie@proton.me](mailto:vinecksie@proton.me)
+* 🚀  I'm currently working on [Pocket Invest (my investment management software)](http://bla ble blae)
+* 🧠  I'm learning Power Platform development, Power Automate RPA
+* 🤝  I'm open to collaborating on Power Platform projects
+* ⚡  Fun fact: Born and raised in France, I've found myself drawn to Austria's breathtaking natural beauty during my European odyssey, considering it as my potential home while traversing through the enchanting streets of France, the sun-drenched landscapes of Portugal, and the historic and scenic regions of Bayern.
+
+### Skills
+
+
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://www.visualstudiocode.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.dev.to/VinEckSie" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/VESConsulting" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/VinEckSIe" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/MYWEBSITE" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@VinEckSIe" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/VESConsulting"><img src="https://github-readme-stats.vercel.app/api?username=VESConsulting&show_icons=true&hide=stars,contribs&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="VESConsulting's GitHub stats" /></a>
+
+<a href="http://www.github.com/VESConsulting"><img src="https://github-readme-streak-stats.herokuapp.com/?user=VESConsulting&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/VESConsulting" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VESConsulting&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Support Me
+
+<ul style="list-style-type: none; margin: 0;">
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/vinecksie"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/vinecksie"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
+
+</ul>
+
+
 # Hello there 👋, I'm Vincent Eckert Sierota
 
-### Software/DevOps/Platform Engineer
+### Power Platform Engineer
 
 - 🔭 I’m currently working on: __Platform Engineering__ 
 - 🌱 I’m currently learning: __Blockchain, IDPs, Go__
 - 💬 Ask me about __DevOps, SRE, Cloud Engineering (AWS), IAC, CI/CD, Docker, Kubernetes, Software Dev/Eng...__
 - 🧧 Chinese name: __畢少謙__
-- ⚡ Fun fact: Having grew up in Scotland, I've never tasted Haggis
+- - 👋 Hi, I’m @VincentEckSie
+- 👀 I’m interested in Power Platform projects
+- 🌱 I’m currently learning Power Platform development, Power Automate RPA. German
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- ⚡ Fun fact: Born and raised in France, I've found myself drawn to Austria's breathtaking natural beauty during my European odyssey, considering it as my potential home while traversing through the enchanting streets of France, the sun-drenched landscapes of Portugal, and the historic and scenic regions of Bayern.
+
+[![Email n8ebel](https://img.shields.io/badge/Email-n8ebel@goobar.dev-red?style=for-the-badge)](mailto:n8ebel@goobar.dev)
+<br>
+[![Website n8ebel](https://img.shields.io/badge/Website-@goobar-yellow?style=for-the-badge)](https://goobar.io/)
+[![Twitter n8ebel](https://img.shields.io/badge/Twitter-@n8ebel-9cf?style=for-the-badge)](https://twitter.com/n8ebel)
+[![LinkedIn n8ebel](https://img.shields.io/badge/LinkedIn-@n8ebel-blue?style=for-the-badge)](https://www.linkedin.com/in/n8ebel/)
+<br>
+[![YouTube n8ebel](https://img.shields.io/badge/YouTube-@goobar-red?style=for-the-badge)](https://www.youtube.com/c/goobar)
+[![Podcast n8ebel](https://img.shields.io/badge/Podcast-@goobar-blueviolet?style=for-the-badge)](https://goobar.buzzsprout.com/)
 
 <br/>
 
@@ -197,28 +258,12 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 
+
 ### My GitHub Stats
 
-<table>
-    <tr>
-        <td>
-            <img src="https://github-profile-trophy.vercel.app/?username=colinbut&row=3&column=4&no-bg=true"/>
-        </td>
-        <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=colinbut"/>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=colinbut&count_private=true&show_icons=true&theme=tokyonight"/>
-        </td>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=colinbut&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
-        </td>
-    </tr>
-</table>
-
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=VESConsulting&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/VESConsulting)
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=VESConsulting&show_icons=true&theme=tokyonight)](https://github.com/VESConsulting)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VESConsulting&theme=tokyonight)](https://github.com/VESConsulting)
 
 
 <!--
