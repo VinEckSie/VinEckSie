@@ -48,9 +48,9 @@ Let's collaborate on unleashing the full potential of the Power Platform. Ready 
 
 ### My GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=VESConsulting&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/VESConsulting)
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=VESConsulting&show_icons=true&theme=tokyonight)](https://github.com/VESConsulting)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VESConsulting&theme=tokyonight)](https://github.com/VESConsulting)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=VinEckSie&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/VESConsulting)
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=VinEckSie&show_icons=true&theme=tokyonight)](https://github.com/VESConsulting)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinEckSie&theme=tokyonight)](https://github.com/VESConsulting)
 
 
 <br/>
