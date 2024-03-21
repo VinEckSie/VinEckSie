@@ -24,6 +24,9 @@ Let's collaborate on unleashing the full potential of the Power Platform. Ready 
 * 🧠  I'm learning Power Platform development, Power Automate RPA
 * ⚡  Fun fact: Born and raised in France, I've found myself drawn to Austria's breathtaking natural beauty during my European odyssey, considering it as my potential home while traversing through the enchanting streets of France, the sun-drenched landscapes of Portugal, and the historic and scenic regions of Bayern.
 
+Test status badge : 
+[![learn-github-actions](https://github.com/VinEckSie/PocketInvest/actions/workflows/learn-github-actions.yml/badge.svg)](https://github.com/VinEckSie/PocketInvest/actions/workflows/learn-github-actions.yml)
+
 ### Skills
 
 
