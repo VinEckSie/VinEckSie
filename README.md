@@ -10,6 +10,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==============================================================================================================================================
 [![Web](https://img.shields.io/badge/Portoflio-VinEckSie-purple?style=for-the-badge)]()
 [![Email n8ebel](https://img.shields.io/badge/Email-vinecksie@pm.me-purple?style=for-the-badge)](mailto:vinecksie@pm.me)
+Check out my awesome project: [PocketInvest](https://github.com/VinEckSie/PocketInvest)
 
 Microsoft Power Platform Expert
 -----------------------
