@@ -19,7 +19,15 @@ Embarking on a new path after a decade-long career as a Microsoft Dynamics 365 d
 Excited to explore Power Apps, Power Automate, and Power BI to drive innovation.      
 Let's collaborate on unleashing the full potential of the Power Platform. Ready to embark on this new journey of growth and impact.
 
-* 🌍  I'm based in Salzburg ![austria](https://github.com/VESConsulting/VinEckSie/assets/159125909/823ab770-f75e-4d79-9861-54cadba92696)
+* 🌍  I'm based in Bayern ![image](https://github.com/VinEckSie/VinEckSie/assets/159125909/1c3290c9-3eac-4b33-ae51-97c2bedbb93e)
+* 🌍  I speak ![image](https://github.com/VinEckSie/VinEckSie/assets/159125909/9b12751a-356a-495c-80ce-02e23218b704) ![image](https://github.com/VinEckSie/VinEckSie/assets/159125909/8579e67a-a6c2-4f03-852a-cb0de4285841) ![image](https://github.com/VinEckSie/VinEckSie/assets/159125909/30d63556-8c13-4128-b529-8a42250f8697) ![image](https://github.com/VinEckSie/VinEckSie/assets/159125909/91f7072c-bdd4-4c3f-819d-906e745165cc) ![image](https://github.com/VinEckSie/VinEckSie/assets/159125909/767db995-c77f-453d-b3ac-933d1fd0f970)
+
+
+
+
+
+
+
 * 🚀  I'm currently working on [Pocket Invest (my investment management software)](https://vinecksie.webflow.io/project/linux-ipfs)
 * 🧠  I'm learning Power Platform development, Power Automate RPA
 * ⚡  Fun fact: Born and raised in France, I've found myself drawn to Austria's breathtaking natural beauty during my European odyssey, considering it as my potential home while traversing through the enchanting streets of France, the sun-drenched landscapes of Portugal, and the historic and scenic regions of Bayern.
