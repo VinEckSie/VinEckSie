@@ -11,26 +11,22 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [![Web](https://img.shields.io/badge/Portoflio-VinEckSie-purple?style=for-the-badge)](https://vinecksie.webflow.io/)
 [![Email n8ebel](https://img.shields.io/badge/Email-vinecksie@pm.me-purple?style=for-the-badge)](mailto:vinecksie@pm.me)
 
-Power Platform Expert
+Microsoft Power Platform Expert
 -----------------------
 
 
 Embarking on a new path after a decade-long career as a Microsoft Dynamics 365 developer, with the goal of mastering the Microsoft Power Platform.  
-Excited to explore Power Apps, Power Automate, and Power BI to drive innovation.      
-Let's collaborate on unleashing the full potential of the Power Platform. Ready to embark on this new journey of growth and impact.
+Excited to explore Copilot, Power Apps, Power Automate, and Power Pages to drive innovation.      
+Let's collaborate on unleashing the full potential of the Power Platform products. Ready to embark on this new journey of growth and impact.
 
-* 🌍  I'm based in Bayern ![image](https://github.com/VinEckSie/VinEckSie/assets/159125909/1c3290c9-3eac-4b33-ae51-97c2bedbb93e)
-* 🌍  I speak ![image](https://github.com/VinEckSie/VinEckSie/assets/159125909/9b12751a-356a-495c-80ce-02e23218b704) ![image](https://github.com/VinEckSie/VinEckSie/assets/159125909/8579e67a-a6c2-4f03-852a-cb0de4285841) ![image](https://github.com/VinEckSie/VinEckSie/assets/159125909/30d63556-8c13-4128-b529-8a42250f8697) ![image](https://github.com/VinEckSie/VinEckSie/assets/159125909/91f7072c-bdd4-4c3f-819d-906e745165cc) ![image](https://github.com/VinEckSie/VinEckSie/assets/159125909/767db995-c77f-453d-b3ac-933d1fd0f970)
-
-
-
-
-
-
-
+* 🌍  I'm based in Bayern ![image](https://github.com/VinEckSie/VinEckSie/assets/159125909/3d556294-4828-4b3e-bc15-9c794052c91f)
+* 🌍  I speak ![image](https://github.com/VinEckSie/VinEckSie/assets/159125909/3fceb4ef-79b2-40d2-99e4-4758fbb38aae) ![image](https://github.com/VinEckSie/VinEckSie/assets/159125909/39482330-8270-423e-8dcf-a17abb75695a) ![image](https://github.com/VinEckSie/VinEckSie/assets/159125909/91f7072c-bdd4-4c3f-819d-906e745165cc)
 * 🚀  I'm currently working on [Pocket Invest (my investment management software)](https://vinecksie.webflow.io/project/linux-ipfs)
-* 🧠  I'm learning Power Platform development, Power Automate RPA
-* ⚡  Fun fact: Born and raised in France, I've found myself drawn to Austria's breathtaking natural beauty during my European odyssey, considering it as my potential home while traversing through the enchanting streets of France, the sun-drenched landscapes of Portugal, and the historic and scenic regions of Bayern.
+* 🧠  I'm learning Power Platform, Power Automate, Power Pages, Dataverse
+* 🧠  I am passionate about Quantum computing
+* ⚡  Fun fact: Born and raised in France, I've found myself drawn to Bayern's breathtaking natural beauty during my European odyssey, considering it as my potential home while traversing through the enchanting streets of France, the sun-drenched landscapes of Portugal, the serene mountains and lakes of Switzerland, and the musical heritage and baroque elegance of Austria.
+
+![image](https://github.com/VinEckSie/VinEckSie/assets/159125909/63c3e76c-0dbb-41dd-a240-9a03a7eac425)
 
 Test status badge : 
 [![learn-github-actions](https://github.com/VinEckSie/PocketInvest/actions/workflows/learn-github-actions.yml/badge.svg)](https://github.com/VinEckSie/PocketInvest/actions/workflows/learn-github-actions.yml)
