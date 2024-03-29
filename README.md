@@ -27,7 +27,7 @@ Let's collaborate on unleashing the full potential of the Power Platform product
  Born and raised in France, I've found myself drawn to Bayern's breathtaking natural beauty during my European odyssey, considering it as my potential home while traversing through the enchanting streets of France, the serene mountains and lakes of Switzerland, the sun-drenched landscapes of Portugal, and the musical heritage and baroque elegance of Austria. 
 
 ### Certifications
-
+[Microsoft Certified: Power Platform App Maker Associate](https://learn.microsoft.com/api/credentials/share/en-us/vincentsierota-7949/F93322EAD5EE5144?sharingId=32EF6134684BE2E4)
 
 
 ### Skills
