@@ -21,6 +21,8 @@ Let's collaborate on unleashing the full potential of the Power Platform product
 
 * 🌍  I speak ![image](https://github.com/VinEckSie/VinEckSie/assets/159125909/3fceb4ef-79b2-40d2-99e4-4758fbb38aae) ![image](https://github.com/VinEckSie/VinEckSie/assets/159125909/39482330-8270-423e-8dcf-a17abb75695a) ![image](https://github.com/VinEckSie/VinEckSie/assets/159125909/91f7072c-bdd4-4c3f-819d-906e745165cc)
 * 🚀  I'm currently working on [Pocket Invest (my investment management software)](https://vinecksie.webflow.io/project/linux-ipfs){:target="_blank"}
+* <a href="https://vinecksie.webflow.io/project/linux-ipfs" target="_blank">Pocket Invest (my investment management software)</a>
+
 * 🧠  I'm learning Power Platform, Power Automate, Power Pages, Dataverse and so forth
 * 🧠  I am passionate about Quantum computing
 * ⚡  Fun fact:  ![france (1)](https://github.com/VinEckSie/VinEckSie/assets/159125909/6ff7403c-531d-47d7-8b4d-50e198f9f0d5) ![switzerland](https://github.com/VinEckSie/VinEckSie/assets/159125909/550325c6-a4cf-4ba5-aa87-967119ec0002) ![portugal](https://github.com/VinEckSie/VinEckSie/assets/159125909/91412841-a1c8-45f6-9a31-c87a43ee3285) ![austria](https://github.com/VinEckSie/VinEckSie/assets/159125909/fd932076-69f2-4cec-bdcb-552baa0c62f2) ![germany](https://github.com/VinEckSie/VinEckSie/assets/159125909/68982729-976a-4c6f-96f9-243d8dc073c3) ![traveler](https://github.com/VinEckSie/VinEckSie/assets/159125909/7618c875-b3f8-4e3c-bb1e-6fab4927a507)
