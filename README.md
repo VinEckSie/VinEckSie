@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Vincent, based in Bayern ![image](https://github.com/VinEckSie/VinEckSie/assets/159125909/ca3d584c-56c8-46e5-91f4-0bff37496db6)
 ==============================================================================================================================================
-[![Web](https://img.shields.io/badge/Portoflio-VinEckSie-purple?style=for-the-badge)](https://vinecksie.webflow.io/)
+[![Web](https://img.shields.io/badge/Portoflio-VinEckSie-purple?style=for-the-badge)](https://vinecksie.webflow.io/){:target="_blank"}
 [![Email n8ebel](https://img.shields.io/badge/Email-vinecksie@pm.me-purple?style=for-the-badge)](mailto:vinecksie@pm.me)
 
 Microsoft Power Platform Expert
@@ -20,14 +20,14 @@ Excited to explore Power Apps, Power Automate, Power Pages and Copilot to drive 
 Let's collaborate on unleashing the full potential of the Power Platform products. Ready to embark on this new journey of growth and impact.
 
 * 🌍  I speak ![image](https://github.com/VinEckSie/VinEckSie/assets/159125909/3fceb4ef-79b2-40d2-99e4-4758fbb38aae) ![image](https://github.com/VinEckSie/VinEckSie/assets/159125909/39482330-8270-423e-8dcf-a17abb75695a) ![image](https://github.com/VinEckSie/VinEckSie/assets/159125909/91f7072c-bdd4-4c3f-819d-906e745165cc)
-* 🚀  I'm currently working on [Pocket Invest (my investment management software)](https://vinecksie.webflow.io/project/linux-ipfs)
+* 🚀  I'm currently working on [Pocket Invest (my investment management software)](https://vinecksie.webflow.io/project/linux-ipfs){:target="_blank"}
 * 🧠  I'm learning Power Platform, Power Automate, Power Pages, Dataverse and so forth
 * 🧠  I am passionate about Quantum computing
 * ⚡  Fun fact:  ![france (1)](https://github.com/VinEckSie/VinEckSie/assets/159125909/6ff7403c-531d-47d7-8b4d-50e198f9f0d5) ![switzerland](https://github.com/VinEckSie/VinEckSie/assets/159125909/550325c6-a4cf-4ba5-aa87-967119ec0002) ![portugal](https://github.com/VinEckSie/VinEckSie/assets/159125909/91412841-a1c8-45f6-9a31-c87a43ee3285) ![austria](https://github.com/VinEckSie/VinEckSie/assets/159125909/fd932076-69f2-4cec-bdcb-552baa0c62f2) ![germany](https://github.com/VinEckSie/VinEckSie/assets/159125909/68982729-976a-4c6f-96f9-243d8dc073c3) ![traveler](https://github.com/VinEckSie/VinEckSie/assets/159125909/7618c875-b3f8-4e3c-bb1e-6fab4927a507)
  Born and raised in France, I've found myself drawn to Bayern's breathtaking natural beauty during my European odyssey, considering it as my potential home while traversing through the enchanting streets of France, the serene mountains and lakes of Switzerland, the sun-drenched landscapes of Portugal, and the musical heritage and baroque elegance of Austria. 
 
 ### Certifications
-[Microsoft Certified: Power Platform App Maker Associate](https://learn.microsoft.com/api/credentials/share/en-us/vincentsierota-7949/F93322EAD5EE5144?sharingId=32EF6134684BE2E4)
+[Microsoft Certified: Power Platform App Maker Associate](https://learn.microsoft.com/api/credentials/share/en-us/vincentsierota-7949/F93322EAD5EE5144?sharingId=32EF6134684BE2E4){:target="_blank"}
 
 
 ### Skills
