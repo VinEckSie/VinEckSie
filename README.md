@@ -56,7 +56,6 @@ Let's collaborate on unleashing the full potential of the Power Platform product
 </p>
 
 
-### My GitHub Stats
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=VinEckSie&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/VESConsulting)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinEckSie&theme=tokyonight)](https://github.com/VESConsulting)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=VinEckSie&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/VESConsulting)
+
