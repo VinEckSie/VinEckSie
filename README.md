@@ -21,7 +21,8 @@ Let's collaborate on unleashing the full potential of the Power Platform product
 
 * 🌍  I speak ![image](https://github.com/VinEckSie/VinEckSie/assets/159125909/3fceb4ef-79b2-40d2-99e4-4758fbb38aae) ![image](https://github.com/VinEckSie/VinEckSie/assets/159125909/39482330-8270-423e-8dcf-a17abb75695a) ![image](https://github.com/VinEckSie/VinEckSie/assets/159125909/91f7072c-bdd4-4c3f-819d-906e745165cc)
 * 🚀  I'm currently working on [Pocket Invest (my investment management software)](https://vinecksie.webflow.io/project/linux-ipfs){:target="_blank"}
-<a href="https://vinecksie.webflow.io/project/linux-ipfs" target="_blank">Pocket Invest (my investment management software)</a>
+<a href="https://vinecksie.webflow.io/project/linux-ipfs" target="_blank" rel="noopener noreferrer">Pocket Invest (my investment management software)</a>
+
 
 
 * 🧠  I'm learning Power Platform, Power Automate, Power Pages, Dataverse and so forth
@@ -64,4 +65,15 @@ Let's collaborate on unleashing the full potential of the Power Platform product
 ### Support my Work
 <br/>
 <a href="https://www.buymeacoffee.com/colinbut"><img src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-official.svg"/></a>
+
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const links = document.querySelectorAll('a[target="_blank"]');
+    links.forEach(link => {
+      link.setAttribute('rel', 'noopener noreferrer');
+    });
+  });
+</script>
+
 
