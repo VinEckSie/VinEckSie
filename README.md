@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Vincent, based in Bayern ![image](https://github.com/VinEckSie/VinEckSie/assets/159125909/ca3d584c-56c8-46e5-91f4-0bff37496db6)
 ==============================================================================================================================================
-[![Web](https://img.shields.io/badge/Portoflio-VinEckSie-purple?style=for-the-badge)](https://vinecksie.webflow.io/)
+[![Web](https://img.shields.io/badge/Portoflio-VinEckSie-purple?style=for-the-badge)]()
 [![Email n8ebel](https://img.shields.io/badge/Email-vinecksie@pm.me-purple?style=for-the-badge)](mailto:vinecksie@pm.me)
 
 Microsoft Power Platform Expert
@@ -20,7 +20,7 @@ Excited to explore Power Apps, Power Automate, Power Pages and Copilot to drive 
 Let's collaborate on unleashing the full potential of the Power Platform products. Ready to embark on this new journey of growth and impact.
 
 * 🌍  I speak ![image](https://github.com/VinEckSie/VinEckSie/assets/159125909/3fceb4ef-79b2-40d2-99e4-4758fbb38aae) ![image](https://github.com/VinEckSie/VinEckSie/assets/159125909/39482330-8270-423e-8dcf-a17abb75695a) ![image](https://github.com/VinEckSie/VinEckSie/assets/159125909/91f7072c-bdd4-4c3f-819d-906e745165cc)
-* 🚀  I'm currently working on [Pocket Invest (my investment management software)](https://vinecksie.webflow.io/project/linux-ipfs)
+* 🚀  I'm currently working on [Pocket Invest (my investment management software)]()
 * 🧠  I'm learning Power Platform, Power Automate, Power Pages, Dataverse and so forth
 * 🧠  I am passionate about Quantum computing
 * ⚡  Fun fact: 
