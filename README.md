@@ -59,24 +59,4 @@ Let's collaborate on unleashing the full potential of the Power Platform product
 ### My GitHub Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=VinEckSie&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/VESConsulting)
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=VinEckSie&show_icons=true&theme=tokyonight)](https://github.com/VESConsulting)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinEckSie&theme=tokyonight)](https://github.com/VESConsulting)
-
-
-<br/>
-
-### Support my Work
-<br/>
-<a href="https://www.buymeacoffee.com/colinbut"><img src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-official.svg"/></a>
-
-
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    const links = document.querySelectorAll('a[target="_blank"]');
-    links.forEach(link => {
-      link.setAttribute('rel', 'noopener noreferrer');
-    });
-  });
-</script>
-
-
