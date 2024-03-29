@@ -9,8 +9,8 @@ You can click the Preview link to take a look at your changes.
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Vincent, based in Bayern ![image](https://github.com/VinEckSie/VinEckSie/assets/159125909/ca3d584c-56c8-46e5-91f4-0bff37496db6)
 ==============================================================================================================================================
 [![Web](https://img.shields.io/badge/Portoflio-VinEckSie-purple?style=for-the-badge)]()
-[![Email n8ebel](https://img.shields.io/badge/Email-vinecksie@pm.me-purple?style=for-the-badge)](mailto:vinecksie@pm.me)
-Check out my awesome project: [PocketInvest](https://github.com/VinEckSie/PocketInvest)
+[![Email n8ebel](https://img.shields.io/badge/Email-vinecksie@pm.me-purple?style=for-the-badge)](mailto:vinecksie@pm.me)  
+Check out my awesome project: [PocketInvest](https://github.com/VinEckSie/PocketInvest) [![PowerPlatform_CICD](https://github.com/VinEckSie/PowerPlatformSolutions/actions/workflows/PowerPlatform_CICD.yml/badge.svg)](https://github.com/VinEckSie/PowerPlatformSolutions/actions/workflows/PowerPlatform_CICD.yml)
 
 Microsoft Power Platform Expert
 -----------------------
