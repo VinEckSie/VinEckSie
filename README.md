@@ -23,22 +23,12 @@ Let's collaborate on unleashing the full potential of the Power Platform product
 * 🚀  I'm currently working on [Pocket Invest (my investment management software)](https://vinecksie.webflow.io/project/linux-ipfs)
 * 🧠  I'm learning Power Platform, Power Automate, Power Pages, Dataverse and so forth
 * 🧠  I am passionate about Quantum computing
-* ⚡  Fun fact: Born and raised in France, I've found myself drawn to Bayern's breathtaking natural beauty during my European odyssey, considering it as my potential home while traversing through the enchanting streets of France, the sun-drenched landscapes of Portugal, the serene mountains and lakes of Switzerland, and the musical heritage and baroque elegance of Austria. ![traveler](https://github.com/VinEckSie/VinEckSie/assets/159125909/7618c875-b3f8-4e3c-bb1e-6fab4927a507) ![france (1)](https://github.com/VinEckSie/VinEckSie/assets/159125909/6ff7403c-531d-47d7-8b4d-50e198f9f0d5) ![switzerland](https://github.com/VinEckSie/VinEckSie/assets/159125909/550325c6-a4cf-4ba5-aa87-967119ec0002) ![portugal](https://github.com/VinEckSie/VinEckSie/assets/159125909/91412841-a1c8-45f6-9a31-c87a43ee3285) ![austria](https://github.com/VinEckSie/VinEckSie/assets/159125909/fd932076-69f2-4cec-bdcb-552baa0c62f2) ![germany](https://github.com/VinEckSie/VinEckSie/assets/159125909/68982729-976a-4c6f-96f9-243d8dc073c3) 
+* ⚡  Fun fact: Born and raised in France, I've found myself drawn to Bayern's breathtaking natural beauty during my European odyssey, considering it as my potential home while traversing through the enchanting streets of France, the serene mountains and lakes of Switzerland, the sun-drenched landscapes of Portugal, and the musical heritage and baroque elegance of Austria.  ![france (1)](https://github.com/VinEckSie/VinEckSie/assets/159125909/6ff7403c-531d-47d7-8b4d-50e198f9f0d5) ![switzerland](https://github.com/VinEckSie/VinEckSie/assets/159125909/550325c6-a4cf-4ba5-aa87-967119ec0002) ![portugal](https://github.com/VinEckSie/VinEckSie/assets/159125909/91412841-a1c8-45f6-9a31-c87a43ee3285) ![austria](https://github.com/VinEckSie/VinEckSie/assets/159125909/fd932076-69f2-4cec-bdcb-552baa0c62f2) ![germany](https://github.com/VinEckSie/VinEckSie/assets/159125909/68982729-976a-4c6f-96f9-243d8dc073c3) ![traveler](https://github.com/VinEckSie/VinEckSie/assets/159125909/7618c875-b3f8-4e3c-bb1e-6fab4927a507)
 
+### Certification
 
-
-
-
-
-
-![image](https://github.com/VinEckSie/VinEckSie/assets/159125909/63c3e76c-0dbb-41dd-a240-9a03a7eac425)
-
-Test status badge : 
-[![learn-github-actions](https://github.com/VinEckSie/PocketInvest/actions/workflows/learn-github-actions.yml/badge.svg)](https://github.com/VinEckSie/PocketInvest/actions/workflows/learn-github-actions.yml)
 
 ### Skills
-
-
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Dataverse-Colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-Apps-Colored.svg" width="36" height="36" alt="C#" /></a>
