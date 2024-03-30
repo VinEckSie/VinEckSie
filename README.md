@@ -10,12 +10,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==============================================================================================================================================
 [![Web](https://img.shields.io/badge/Portoflio-VinEckSie-purple?style=for-the-badge)]()
 [![Email n8ebel](https://img.shields.io/badge/Email-vinecksie@pm.me-purple?style=for-the-badge)](mailto:vinecksie@pm.me)  
-### [Pocket Invest (my investment management application)]()  [![PowerPlatform_CICD](https://github.com/VinEckSie/PowerPlatformSolutions/actions/workflows/PowerPlatform_CICD.yml/badge.svg)](https://github.com/VinEckSie/PowerPlatformSolutions/actions/workflows/PowerPlatform_CICD.yml)
 
 Microsoft Power Platform Expert
 -----------------------
-
-
 Embarking on a new path after a decade-long career as a Microsoft Dynamics 365 developer, with the goal of mastering the Microsoft Power Platform.  
 Excited to explore Power Apps, Power Automate, Power Pages and Copilot to drive innovation.      
 Let's collaborate on unleashing the full potential of the Power Platform products. Ready to embark on this new journey of growth and impact.
@@ -28,9 +25,10 @@ Let's collaborate on unleashing the full potential of the Power Platform product
  Born and raised in France, I've found myself drawn to Bayern's breathtaking natural beauty during my European odyssey, considering it as my potential home while traversing through the enchanting streets of France, the serene mountains and lakes of Switzerland, the sun-drenched landscapes of Portugal, and the musical heritage and baroque elegance of Austria.  
  ![france (1)](https://github.com/VinEckSie/VinEckSie/assets/159125909/6ff7403c-531d-47d7-8b4d-50e198f9f0d5) ![switzerland](https://github.com/VinEckSie/VinEckSie/assets/159125909/550325c6-a4cf-4ba5-aa87-967119ec0002) ![portugal](https://github.com/VinEckSie/VinEckSie/assets/159125909/91412841-a1c8-45f6-9a31-c87a43ee3285) ![austria](https://github.com/VinEckSie/VinEckSie/assets/159125909/fd932076-69f2-4cec-bdcb-552baa0c62f2) ![germany](https://github.com/VinEckSie/VinEckSie/assets/159125909/68982729-976a-4c6f-96f9-243d8dc073c3) ![traveler](https://github.com/VinEckSie/VinEckSie/assets/159125909/7618c875-b3f8-4e3c-bb1e-6fab4927a507)
 
+### [Pocket Invest (my investment management app)]()  [![PowerPlatform_CICD](https://github.com/VinEckSie/PowerPlatformSolutions/actions/workflows/PowerPlatform_CICD.yml/badge.svg)](https://github.com/VinEckSie/PowerPlatformSolutions/actions/workflows/PowerPlatform_CICD.yml)
+
 ### Certifications
 [Microsoft Certified: Power Platform App Maker Associate](https://learn.microsoft.com/api/credentials/share/en-us/vincentsierota-7949/F93322EAD5EE5144?sharingId=32EF6134684BE2E4)
-
 
 ### Skills
 <p align="left">
