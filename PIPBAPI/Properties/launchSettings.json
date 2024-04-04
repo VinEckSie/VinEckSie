@@ -1,8 +1,8 @@
 {
   "profiles": {
-    "PocketInvestPBAPI": {
+    "PIPBAPI": {
       "commandName": "Project",
-      "commandLineArgs": "--port 7107",
+      "commandLineArgs": "--port 7285",
       "launchBrowser": false
     }
   }
