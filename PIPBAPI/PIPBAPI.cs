@@ -10,9 +10,11 @@ using Newtonsoft.Json;
 using System.Net.Http.Headers;
 using System.Text;
 using Microsoft.Extensions.Logging;
+using Newtonsoft.Json.Linq;
+using PocketInvest.LoanResponseModels;
 
 
-namespace PocketInvest.PBAPI
+namespace PocketInvest.PIPBAPI
 {
     public static class PIPBAPI
     {
@@ -37,6 +39,7 @@ namespace PocketInvest.PBAPI
         var loans = await GetLoans();
 
         return new OkObjectResult(loans);
+       //return new OkObjectResult("Hello World");
     }
 
     private static async Task Authenticate(string username, string _password)
@@ -54,7 +57,7 @@ namespace PocketInvest.PBAPI
         {
             var responseBody = await response.Content.ReadAsStringAsync();
             dynamic data = JsonConvert.DeserializeObject(responseBody);
-            jwtToken = data?.childrenTokens[0];
+            jwtToken = data.access_token;
         }
         else
         {
@@ -70,18 +73,36 @@ namespace PocketInvest.PBAPI
     private static async Task<dynamic> GetLoans()
     {
         Console.WriteLine("Get loans start process");
-        // var loansUrl = "https://api.peerberry.com/v1/loans?sort=-loanId&offset=0&pageSize=40";
         var loansUrl = "https://api.peerberry.com/v1/loans";
         client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", jwtToken);
-        var response = await client.SendAsync(new HttpRequestMessage(HttpMethod.Options, loansUrl));
+        var response = await client.SendAsync(new HttpRequestMessage(HttpMethod.Get, loansUrl));
 
         if (response.IsSuccessStatusCode)
         {
             Console.WriteLine("Get loans process success");
             var responseBody = await response.Content.ReadAsStringAsync();
-            Console.WriteLine(responseBody);
-            dynamic loans = JsonConvert.DeserializeObject(responseBody);
-            Console.WriteLine(loans.toString());
+            LoanResponse loans = JsonConvert.DeserializeObject<LoanResponse>(responseBody);
+
+            foreach (var loan in loans.Data)
+            {
+                Console.WriteLine($@"LoanId: {loan.LoanId}
+                Country: {loan.Country}
+                InterestRate: {loan.InterestRate}
+                LoanOriginator: {loan.loanOriginator}
+                OriginatorId: {loan.originatorId}
+                IssuedDate: {loan.issuedDate}
+                FinalPaymentDate: {loan.finalPaymentDate}
+                TermType: {loan.termType}
+                Status: {loan.status}
+                RemainingTerm: {loan.remainingTerm}
+                InitialTerm: {loan.initialTerm}
+                LoanAmount: {loan.loanAmount}
+                AvailableToInvest: {loan.availableToInvest}
+                MinimumInvestmentAmount: {loan.minimumInvestmentAmount}
+                InvestedAmount: {loan.investedAmount}
+                Currency: {loan.currency}
+                Buyback: {loan.buyback}");
+            }
             return loans;
         }
         else
