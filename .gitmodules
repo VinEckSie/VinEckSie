@@ -1,0 +1,3 @@
+[submodule "Azure"]
+	path = Azure
+	url = https://github.com/VinEckSie/Azure
