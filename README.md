@@ -32,6 +32,8 @@ Let's collaborate on unleashing the full potential of the Power Platform product
 
 ### Microsoft & A.I. Certifications
 [Microsoft Certified: Power Platform App Maker Associate](https://learn.microsoft.com/api/credentials/share/en-us/vincentsierota-7949/F93322EAD5EE5144?sharingId=32EF6134684BE2E4)
+<br/>
+<br/>
 
 ### Applications (and their related project)
 [![PowerPlatform_CICD](https://github.com/VinEckSie/PowerPlatformSolutions/actions/workflows/PowerPlatform_CICD.yml/badge.svg)](https://github.com/VinEckSie/PowerPlatformSolutions/actions/workflows/PowerPlatform_CICD.yml) [Pocket Invest (my investment management app)]()  
@@ -56,7 +58,7 @@ Let's collaborate on unleashing the full potential of the Power Platform product
 <a href="https://dev.to/vinecksie" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a>
 <a href="https://www.youtube.com/@vinecksie" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a>
 </p>
-<br/>
+
 ### My Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinEckSie&theme=tokyonight)](https://github.com/VESConsulting)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=VinEckSie&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/VESConsulting)
