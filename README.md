@@ -36,7 +36,8 @@ Let's collaborate on unleashing the full potential of the Power Platform product
 <br/>
 
 ### Applications (and their related project)
-[![PowerPlatform_CICD](https://github.com/VinEckSie/PowerPlatformSolutions/actions/workflows/PowerPlatform_CICD.yml/badge.svg)](https://github.com/VinEckSie/PowerPlatformSolutions/actions/workflows/PowerPlatform_CICD.yml) [Pocket Invest (my investment management app)]()  
+[![PowerPlatform_CICD](https://github.com/VinEckSie/PowerPlatformSolutions/actions/workflows/PowerPlatform_CICD.yml/badge.svg)](https://github.com/VinEckSie/PowerPlatformSolutions/actions/workflows/PowerPlatform_CICD.yml) [Pocket Invest (my investment management app)]() <br/> 
+
 ### Skills
 <p align="left">
 <a href="https://learn.microsoft.com/en-us/power-apps/maker/data-platform/data-platform-intro" target="_blank" rel="noreferrer"><img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Dataverse-Colored.svg" width="36" height="36" alt="C#" /></a>
