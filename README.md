@@ -14,6 +14,7 @@ Microsoft Power Platform & A.I. Expert
 -----------------------
 [![Web](https://img.shields.io/badge/Portoflio-VinEckSie-purple?style=for-the-badge)]()
 [![Email n8ebel](https://img.shields.io/badge/Email-vinecksie@pm.me-purple?style=for-the-badge)](mailto:vinecksie@pm.me)  
+<br/>
 Embarking on a new path after a decade-long career as a Microsoft Dynamics 365 developer, with the goal of mastering the Microsoft Power Platform.  
 Excited to explore Power Apps, Power Automate, Power Pages and Copilot to drive innovation.      
 Let's collaborate on unleashing the full potential of the Power Platform products. Ready to embark on this new journey of growth and impact.
@@ -26,15 +27,14 @@ Let's collaborate on unleashing the full potential of the Power Platform product
 * 🧠  I am passionate about Quantum computing
 * ⚡  Fun fact: 
  Born and raised in France, I've found myself drawn to Bayern's breathtaking natural beauty during my European odyssey, considering it as my potential home while traversing through the enchanting streets of France, the serene mountains and lakes of Switzerland, the sun-drenched landscapes of Portugal, and the musical heritage and baroque elegance of Austria.  
- ![france (1)](https://github.com/VinEckSie/VinEckSie/assets/159125909/6ff7403c-531d-47d7-8b4d-50e198f9f0d5) ![switzerland](https://github.com/VinEckSie/VinEckSie/assets/159125909/550325c6-a4cf-4ba5-aa87-967119ec0002) ![portugal](https://github.com/VinEckSie/VinEckSie/assets/159125909/91412841-a1c8-45f6-9a31-c87a43ee3285) ![austria](https://github.com/VinEckSie/VinEckSie/assets/159125909/fd932076-69f2-4cec-bdcb-552baa0c62f2) ![germany](https://github.com/VinEckSie/VinEckSie/assets/159125909/68982729-976a-4c6f-96f9-243d8dc073c3) ![traveler](https://github.com/VinEckSie/VinEckSie/assets/159125909/7618c875-b3f8-4e3c-bb1e-6fab4927a507)
-
+ ![france (1)](https://github.com/VinEckSie/VinEckSie/assets/159125909/6ff7403c-531d-47d7-8b4d-50e198f9f0d5) ![switzerland](https://github.com/VinEckSie/VinEckSie/assets/159125909/550325c6-a4cf-4ba5-aa87-967119ec0002) ![portugal](https://github.com/VinEckSie/VinEckSie/assets/159125909/91412841-a1c8-45f6-9a31-c87a43ee3285) ![austria](https://github.com/VinEckSie/VinEckSie/assets/159125909/fd932076-69f2-4cec-bdcb-552baa0c62f2) ![germany](https://github.com/VinEckSie/VinEckSie/assets/159125909/68982729-976a-4c6f-96f9-243d8dc073c3) ![traveler](https://github.com/VinEckSie/VinEckSie/assets/159125909/7618c875-b3f8-4e3c-bb1e-6fab4927a507)  
+<br/>
 
 ### Microsoft & A.I. Certifications
 [Microsoft Certified: Power Platform App Maker Associate](https://learn.microsoft.com/api/credentials/share/en-us/vincentsierota-7949/F93322EAD5EE5144?sharingId=32EF6134684BE2E4)
 
 ### Applications (and their related project)
 [![PowerPlatform_CICD](https://github.com/VinEckSie/PowerPlatformSolutions/actions/workflows/PowerPlatform_CICD.yml/badge.svg)](https://github.com/VinEckSie/PowerPlatformSolutions/actions/workflows/PowerPlatform_CICD.yml) [Pocket Invest (my investment management app)]()  
-
 ### Skills
 <p align="left">
 <a href="https://learn.microsoft.com/en-us/power-apps/maker/data-platform/data-platform-intro" target="_blank" rel="noreferrer"><img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Dataverse-Colored.svg" width="36" height="36" alt="C#" /></a>
@@ -48,9 +48,7 @@ Let's collaborate on unleashing the full potential of the Power Platform product
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 </p>
 
-
 ### Socials
-
 <p align="left">
  <a href="https://powerusers.microsoft.com/t5/user/viewprofilepage/user-id/834126" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VinEckSie/VinEckSie/main/PowerPlatform_scalable.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VinEckSie/VinEckSie/main/PowerPlatform_scalable.svg" /> <img src="https://raw.githubusercontent.com/VinEckSie/VinEckSie/main/PowerPlatform_scalable.svg" width="32" height="32" /> </picture> </a>
 <a href="https://www.github.com/VinEckSie" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a>
@@ -58,7 +56,7 @@ Let's collaborate on unleashing the full potential of the Power Platform product
 <a href="https://dev.to/vinecksie" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a>
 <a href="https://www.youtube.com/@vinecksie" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a>
 </p>
-
+<br/>
 ### My Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinEckSie&theme=tokyonight)](https://github.com/VESConsulting)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=VinEckSie&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/VESConsulting)
