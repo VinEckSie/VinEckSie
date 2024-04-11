@@ -35,7 +35,7 @@ Ready to embark on this new journey of growth and impact, let's collaborate on u
 <br/>
 
 ### Applications
-[Pocket Invest app]() ----- [(Github related project)](https://github.com/users/VinEckSie/projects/1) ---- [![PowerPlatform_CICD](https://github.com/VinEckSie/PowerPlatformSolutions/actions/workflows/PowerPlatform_CICD.yml/badge.svg)](https://github.com/VinEckSie/PowerPlatformSolutions/actions/workflows/PowerPlatform_CICD.yml) <br/> 
+[Pocket Invest model-driven app]() ----- [(Github related project)](https://github.com/users/VinEckSie/projects/1) ---- [![PowerPlatform_CICD](https://github.com/VinEckSie/PowerPlatformSolutions/actions/workflows/PowerPlatform_CICD.yml/badge.svg)](https://github.com/VinEckSie/PowerPlatformSolutions/actions/workflows/PowerPlatform_CICD.yml) <br/> 
 
 ### Skills
 <p align="left">
