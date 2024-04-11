@@ -34,8 +34,8 @@ Let's collaborate on unleashing the full potential of the Power Platform product
 [Microsoft Certified: Power Platform App Maker Associate](https://learn.microsoft.com/api/credentials/share/en-us/vincentsierota-7949/F93322EAD5EE5144?sharingId=32EF6134684BE2E4)
 <br/>
 
-### Applications (and their related project)
-[![PowerPlatform_CICD](https://github.com/VinEckSie/PowerPlatformSolutions/actions/workflows/PowerPlatform_CICD.yml/badge.svg)](https://github.com/VinEckSie/PowerPlatformSolutions/actions/workflows/PowerPlatform_CICD.yml) [Pocket Invest (my investment management app)]() <br/> 
+### Applications
+[![PowerPlatform_CICD](https://github.com/VinEckSie/PowerPlatformSolutions/actions/workflows/PowerPlatform_CICD.yml/badge.svg)](https://github.com/VinEckSie/PowerPlatformSolutions/actions/workflows/PowerPlatform_CICD.yml) [Pocket Invest : my investment management app]() --- [(Github related project)](https://github.com/users/VinEckSie/projects/1) <br/> 
 
 ### Skills
 <p align="left">
