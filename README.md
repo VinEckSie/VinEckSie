@@ -17,7 +17,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <br/>
 Embarking on a new path after a decade-long career as a Microsoft Dynamics 365 developer, with the goal of mastering Microsoft Power Platform.  
 Excited to explore Power Apps, Power Automate, Power Pages to drive innovation.      
-Let's collaborate on unleashing the full potential of the Power Platform products. 
+Let's collaborate on unleashing the full potential of the Power Platform products.  
 Ready to embark on this new journey of growth and impact.
 
 <!---
