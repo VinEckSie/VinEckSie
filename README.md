@@ -16,9 +16,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [![Email n8ebel](https://img.shields.io/badge/Email-vinecksie@pm.me-purple?style=for-the-badge)](mailto:vinecksie@pm.me)  
 <br/>
 Embarking on a new path after a decade-long career as a Microsoft Dynamics 365 developer, with the goal of mastering Microsoft Power Platform.  
-Excited to explore Power Apps, Power Automate, Power Pages to drive innovation.      
-Let's collaborate on unleashing the full potential of the Power Platform products.  
-Ready to embark on this new journey of growth and impact.
+Excited to explore Power Apps, Power Automate, Power Pages and so forth to drive innovation.      
+Ready to embark on this new journey of growth and impact, let's collaborate on unleashing the full potential of the Power Platform products.  
+
 
 <!---
 * 🌍  I speak ![image](https://github.com/VinEckSie/VinEckSie/assets/159125909/3fceb4ef-79b2-40d2-99e4-4758fbb38aae) ![image](https://github.com/VinEckSie/VinEckSie/assets/159125909/39482330-8270-423e-8dcf-a17abb75695a) ![image](https://github.com/VinEckSie/VinEckSie/assets/159125909/91f7072c-bdd4-4c3f-819d-906e745165cc)
