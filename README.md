@@ -12,9 +12,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 # Microsoft Power Platform & A.I. Expert
 -----------------------
-[![Web](https://img.shields.io/badge/Portoflio-VinEckSie-purple?style=for-the-badge)]()
-[![Email n8ebel](https://img.shields.io/badge/Email-vinecksie@pm.me-purple?style=for-the-badge)](mailto:vinecksie@pm.me)
-[![Web](https://img.shields.io/badge/Resume-purple?style=for-the-badge)]() 
+[![Web](https://img.shields.io/badge/My_Portoflio-purple?style=for-the-badge)]()
+[![Email n8ebel](https://img.shields.io/badge/Let's_connect-purple?style=for-the-badge)](mailto:vinecksie@pm.me)
+[![Web](https://img.shields.io/badge/Download_my_Resume-purple?style=for-the-badge)]() 
 <br/>
 Embarking on a new path after a decade-long career as a Microsoft Dynamics 365 developer, with the goal of mastering Microsoft Power Platform.  
 Excited to explore Power Apps, Power Automate, Power Pages and so forth to drive innovation.      
