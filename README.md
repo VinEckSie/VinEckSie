@@ -3,10 +3,23 @@
 <!---
 VincentEckSie/VincentEckSie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
 [![Web](https://img.shields.io/badge/PORTFOLIO-purple?style=for-the-badge)]()
 [![Web](https://img.shields.io/badge/RESUME-purple?style=for-the-badge)]() 
 [![Email n8ebel](https://img.shields.io/badge/Get_in_touch-purple?style=for-the-badge)](mailto:vinecksie@pm.me)
+--->
+
+<p align="right">
+  <a href="#">
+    <img src="https://img.shields.io/badge/PORTFOLIO-purple?style=for-the-badge" alt="Web">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/RESUME-purple?style=for-the-badge" alt="Web">
+  </a>
+  <a href="mailto:vinecksie@pm.me">
+    <img src="https://img.shields.io/badge/Get_in_touch-purple?style=for-the-badge" alt="Email n8ebel">
+  </a>
+</p>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Vincent, based in Bayern ![image](https://github.com/VinEckSie/VinEckSie/assets/159125909/ca3d584c-56c8-46e5-91f4-0bff37496db6) 
 ==============================================================================================================================================
@@ -14,7 +27,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 # Microsoft Power Platform & A.I. Expert
 
-<br/><br/>
+<!---<br/><br/>--->
 Embarking on a new path after a decade-long career as a Microsoft Dynamics 365 developer, with the goal of mastering Microsoft Power Platform.  
 Excited to explore Power Apps, Power Automate, Power Pages and so forth to drive innovation.      
 Ready to embark on this new journey of growth and impact, let's collaborate on unleashing the full potential of the Power Platform products.   
