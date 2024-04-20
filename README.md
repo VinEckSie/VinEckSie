@@ -4,16 +4,16 @@
 VincentEckSie/VincentEckSie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+[![Web](https://img.shields.io/badge/PORTFOLIO-purple?style=for-the-badge)]()
+[![Web](https://img.shields.io/badge/RESUME-purple?style=for-the-badge)]() 
+[![Email n8ebel](https://img.shields.io/badge/Get_in_touch-purple?style=for-the-badge)](mailto:vinecksie@pm.me)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Vincent, based in Bayern ![image](https://github.com/VinEckSie/VinEckSie/assets/159125909/ca3d584c-56c8-46e5-91f4-0bff37496db6) 
 ==============================================================================================================================================
 
 
 # Microsoft Power Platform & A.I. Expert
-[![Web](https://img.shields.io/badge/My_Portoflio-purple?style=for-the-badge)]()
-[![Web](https://img.shields.io/badge/Download_my_Resume-purple?style=for-the-badge)]() 
-[![Email n8ebel](https://img.shields.io/badge/Get_in_touch-purple?style=for-the-badge)](mailto:vinecksie@pm.me)
+
 <br/><br/>
 Embarking on a new path after a decade-long career as a Microsoft Dynamics 365 developer, with the goal of mastering Microsoft Power Platform.  
 Excited to explore Power Apps, Power Automate, Power Pages and so forth to drive innovation.      
