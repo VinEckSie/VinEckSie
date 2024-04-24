@@ -35,7 +35,7 @@ Ready to embark on this new journey of growth and impact, let's collaborate on u
 <!---
 * 🌍  I speak ![image](https://github.com/VinEckSie/VinEckSie/assets/159125909/3fceb4ef-79b2-40d2-99e4-4758fbb38aae) ![image](https://github.com/VinEckSie/VinEckSie/assets/159125909/39482330-8270-423e-8dcf-a17abb75695a) ![image](https://github.com/VinEckSie/VinEckSie/assets/159125909/91f7072c-bdd4-4c3f-819d-906e745165cc)
 --->
-* 🌍  I speak French,English and German
+* 🌍  I speak French, English and German
 * 🧠  I am passionate about Quantum computing
 * ⚡  Fun fact: 
  Born and raised in France, I've found myself drawn to Bayern's breathtaking natural beauty during my European odyssey, considering it as my potential home while traversing through the enchanting streets of France, the serene mountains and lakes of Switzerland, the sun-drenched landscapes of Portugal, and the musical heritage and baroque elegance of Austria.  
