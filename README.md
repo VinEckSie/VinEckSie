@@ -1,21 +1,27 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Vincent
 ===============================================================================================================================
 
+<!--
 Rust Engineer
 -------------
+-->
 
-I’m building projects that push Rust to its limits—secure, high-performance systems with real-world impact. Follow my journey as I tackle cutting-edge challenges. Let’s build the future together!
+Hi! I’m transitioning to Rust after 14 years as a Microsoft developer. I’ve chosen Rust for its performance, safety, and modern tooling—and because I believe it’s the future of systems and blockchain development.
 
-* 🖥️  [VES Remote Solutions LLC](http://vinecksie.super.site/)
-* ✉️  [Contact me](mailto:vesremotesolutions@pm.me)
+Right now, I’m focused on building backend systems and diving into blockchain tech with Substrate, libp2p, and zero-knowledge proofs. This is just the beginning—my master plan is evolving as I learn and grow.
+
+I'm here to connect, build, and contribute to the Rust community. Let’s see how far we can go. 🦀🚀
+
+✉️  [Contact me](mailto:vesremotesolutions@pm.me)
 
 
 ### Tech & Domains
-🔗 APIs (REST, GraphQL) | 💻 CLI | 🌐 WASM & Frontend | 🔒 Blockchain & Cryptography | ✈️ Aerospace Systems
+🔗 APIs (REST, GraphQL) | 💻 CLI | 🔒 Blockchain & Cryptography
 
 ### Rust Architecture
-🔧 Hexagonal Architecture | 🌀 Domain-Driven Design | ✅ Test-Driven Development | 📊 Event Sourcing | ⚡ CQRS
+🔧 Hexagonal Architecture | 🌀 Domain-Driven Design | ✅ Test-Driven Development
 
+<!--
 ### Contribution
 
 ### Projects
@@ -27,16 +33,42 @@ I’m building projects that push Rust to its limits—secure, high-performance 
 </p>
 
 
+-->
 
 ### Socials
 
 <p align="left"> 
-    </a> <a href="https://www.linkedin.com/in/VinEckSIe" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> 
-  <a href="https://www.github.com/VESConsulting" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> 
-  <a href="https://www.youtube.com/@VinEckSIe" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a>
-    <a href="http://www.instagram.com/vinecksie" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> </p>
+
+ <a href="https://www.linkedin.com/in/vincent-e-926828bb/" target="_blank" rel="noreferrer"> 
+ <picture>
+     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
+ </picture> 
+ </a> 
+
+  <a href="https://discord.com/users/vincentecksie" target="_blank" rel="noreferrer"> 
+ <picture>
+     <img src="https://github.com/user-attachments/assets/4fd2089d-859f-490c-91ce-9af37c26ca58" width="32" height="32" /> 
+ </picture> 
+ </a> 
+
+  <a href="https://rust-lang.zulipchat.com/#user/783360" target="_blank" rel="noreferrer"> 
+ <picture>
+     <img src="https://github.com/user-attachments/assets/4ce5ba58-b610-45ef-9874-b01c9fc9c121" width="32" height="32" /> 
+ </picture> 
+ </a> 
+ 
+ <a href="https://users.rust-lang.org/u/vincent_ecksie/summary" target="_blank" rel="noreferrer"> 
+ <picture>   
+     <img src="https://github.com/user-attachments/assets/007297c4-05fb-4abd-9c8d-fa9138d39963" width="32" height="32" /> 
+ </picture> 
+ </a> 
+ 
+
+
+
+
+    
+</p>
 
 ### Badges
 
