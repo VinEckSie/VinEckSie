@@ -64,16 +64,11 @@ I'm here to connect, build, and contribute to the Rust community. Let’s see ho
  </a> 
  
 
-
-
+<a href="http://www.github.com/VinEckSie"><img src="https://github-readme-stats.vercel.app/api?username=VinEckSie&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="VinEckSie's GitHub stats" /></a>
 
     
 </p>
 
-
-
-
 <a href="https://github.com/VinEckSie" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinEckSie&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
-<a href="http://www.github.com/VinEckSie"><img src="https://github-readme-stats.vercel.app/api?username=VinEckSie&show_icons=true&hide=stars,prs,&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="VinEckSie's GitHub stats" /></a>
