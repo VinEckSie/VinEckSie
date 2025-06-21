@@ -11,186 +11,104 @@
 
 <br/>
 
-### 🚀 What I Build
+## 🚀 What I Build
 
 I design and ship Rust software focused on applied cryptography and command-line tooling for developers.
 
----
+<br/>
+
+## 🧩 Core Products
+
+### 🧠 [RustPulse](https://github.com/VinEckSie/RustPulse) – Real-Time Server Monitoring System
+> A production-grade monitoring suite built entirely in Rust.  
+
+[![CI](https://github.com/VinEckSie/RustPulse/actions/workflows/ci.yml/badge.svg)](https://github.com/VinEckSie/RustPulse/actions) [![Last Commit](https://img.shields.io/github/last-commit/VinEckSie/rustpulse)](https://github.com/VinEckSie/rustpulse/commits/main) [![CI](https://github.com/VinEckSie/RustPulse/actions/workflows/audit.yml/badge.svg)](https://github.com/VinEckSie/RustPulse/actions)  [![License](https://img.shields.io/github/license/VinEckSie/RustPulse)](https://github.com/VinEckSie/RustPulse/blob/main/LICENSE)  
+
+- 📊 Real-time metrics: CPU, RAM, Disk, Network  
+- 🔐 REST and gRPC APIs secured with JWT authentication  
+- 🗃 PostgreSQL for persistent metrics and alert history  
+- 🧪 CI/CD, code linting, coverage testing, and structured error handling  
+
+<br/>
+
+### 🔐  [Sealed in Rust](https://github.com/VinEckSie/sealed-in-rust) – Cryptography Book (WIP)  
+> A hands-on guide to implementing cryptographic algorithms in idiomatic Rust.
+
+[![Docs](https://img.shields.io/badge/docs-online-blue)](https://VinEckSie.github.io/sealed-in-rust)
+[![Last Commit](https://img.shields.io/github/last-commit/VinEckSie/sealed-in-rust)](https://github.com/VinEckSie/sealed-in-rust/commits/main)
+[![License](https://img.shields.io/github/license/VinEckSie/sealed-in-rust)](https://github.com/VinEckSie/sealed-in-rust/blob/main/LICENSE)
+
+- Covers AES, RSA, SHA2, Diffie-Hellman, and modern primitives  
+- Real-world focus: secure APIs, zero-copy patterns, and a bonus on blockchain & aerospace algorithms 
+- Accompanied by code examples and CLI tools for hands-on learning
+- Delivered chapter by chapter — no fixed release date 
+
+<br/>
+
+## 🧪 Side Skills & Challenges
+
+I'm sharpening my Rust skills through real-world system design and platform tooling.
+
+[![CI](https://github.com/VinEckSie/RustPulse/actions/workflows/ci.yml/badge.svg)](https://github.com/VinEckSie/RustPulse/actions) [![Last Commit](https://img.shields.io/github/last-commit/VinEckSie/rustpulse)](https://github.com/VinEckSie/rustpulse/commits/main) [![CI](https://github.com/VinEckSie/RustPulse/actions/workflows/audit.yml/badge.svg)](https://github.com/VinEckSie/RustPulse/actions)  [![License](https://img.shields.io/github/license/VinEckSie/RustPulse)](https://github.com/VinEckSie/RustPulse/blob/main/LICENSE)  
+
+- 🧱 CodeCrafters challenges – HTTP server, Redis, Kafka, DNS resolver, SQLite engine, and more  
+- 🧭 Personal exercises – Docker, Kubernetes, gRPC, Prometheus, Grafana, and beyond  
+- 💡 Focus on hexagonal architecture, test-driven development, and domain-driven design
 
 
-### 🧩 Core Products
+📂 [Side-skills products](https://github.com/VinEckSie/side-skills-products)
 
-#### 🧠 [RustPulse](https://github.com/VinEckSie/RustPulse) – Server Monitoring CLI  
-> Terminal-based resource monitor built for speed, visibility, and extensibility.
 
-[![CI](https://github.com/VinEckSie/RustPulse/actions/workflows/ci.yml/badge.svg)](https://github.com/VinEckSie/RustPulse/actions)[![CI](https://github.com/VinEckSie/RustPulse/actions/workflows/audit.yml/badge.svg)](https://github.com/VinEckSie/RustPulse/actions)  
-[![License](https://img.shields.io/github/license/VinEckSie/RustPulse)](https://github.com/VinEckSie/RustPulse/blob/main/LICENSE)  
-[![Stars](https://img.shields.io/github/stars/VinEckSie/RustPulse?style=social)](https://github.com/VinEckSie/RustPulse)
+<br/>
 
-- Live terminal UI using `ratatui`
-- `tokio`-powered async data collection
-- System metrics: CPU, RAM, disk I/O, network
-- Plugin support (planned) for custom metrics
+## 🎥 Educational Content: Fearless in Rust
 
----
+[![YouTube](https://img.shields.io/badge/YouTube-DD0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@FearlessInRust)
 
-#### 🔐 [crypto-rs-lab](https://github.com/VinEckSie/crypto-rs-lab) – Cryptographic Toolkit  
-> A modular Rust crate for secure, auditable cryptographic primitives.
+**Fearless in Rust** is my YouTube channel where I document and share my Rust journey — from building real products to exploring cryptographic concepts and teaching the fundamentals.
 
-[![CI](https://github.com/VinEckSie/crypto-rs-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/VinEckSie/crypto-rs-lab/actions)  
-[![Crates.io](https://img.shields.io/crates/v/crypto-rs-lab)](https://crates.io/crates/crypto-rs-lab) *(once published)*  
-[![Docs](https://img.shields.io/badge/docs.rs-online-blue)](https://docs.rs/crypto-rs-lab) *(if published to docs.rs)*
+- 🛠 Behind-the-scenes of my core products (like RustPulse) — design, decisions, architecture  
+- 🔐 Applied cryptography videos inspired by my book *Sealed in Rust* (AES, RSA, hashing, etc.)  
+- 🧩 Beginner-friendly series à la *Rustlings* — ideal for devs new to Rust or systems programming  
 
-- Implements AES, RSA, SHA2 + custom algorithms
-- Focus on clarity, correctness, and side-channel safety
-- CLI companion for signing, verifying, encoding
+<br/>
 
----
+## 🛠️ My Rust Stack
 
-#### 📦 TinyEmbed *(coming soon)* – Embedded Rust Starter Kits
+I ship real products in Rust — from secure cryptographic libraries to async system tools.
 
-> Ready-to-use templates for rapid prototyping on Cortex-M and RISC-V MCUs.
+- 🦀 Core: Rust • Cargo • tokio • clap • serde
+- 🔧 Hexagonal Architecture | 🌀 Domain-Driven Design | ✅ Test-Driven Development
+- 🧪 CI & Testing: GitHub Actions • criterion • thiserror  
+- 🔐 Cryptography & CLI (Sealed in Rust, SigVault): zero-copy, safe abstractions, custom primitives  
+- 📊 Systems Monitoring (RustPulse): async pipelines, structured logging  
+- ⚙️ Dev Workflow: RustRover • rust-analyzer • Makefiles • Linux • Zsh
 
-- Zero-boilerplate launch configs
-- HAL layer + clean architecture
-- Defense/aerospace–grade reliability targets
+<br/>
 
----
+## 🎯 Vision
 
-### 🛠️ Tooling & Stack
+- 🛡️ I build secure, production-grade Rust tools — from real-time monitoring systems to applied cryptography.
+- 🧰 I focus on CLI-first products that solve real-world problems for developers and ops teams.
+- 📚 I teach through Fearless in Rust and contribute back to the ecosystem by sharing everything I learn.
 
-Rust • Cargo • `tokio` • `ratatui` • `clap` • `serde` • `criterion`  
-QEMU • `embedded-hal` • LLVM • GDB • GitHub Actions  
-Linux • VS Code + rust-analyzer • Makefiles • Zsh
+![Commits This Year](https://img.shields.io/badge/Commits_This_Year-69-informational?style=flat&logo=github)
 
----
 
-### 🎯 Vision
+<br/>
 
-- Build battle-tested, production-grade tools for real engineers
-- Ship CLI and embedded products, not just demos
-- Push Rust further into DevOps, cryptography, and embedded domains
-- Contribute to open-source ecosystems I rely on
+## 🌍 Languages
 
----
-
-### 🌍 Languages
-
-| Language   | Level        |
-|------------|--------------|
-| 🇫🇷 French   | Native       |
+| Language   | Proficiency    |
+|------------|----------------|
+| 🇫🇷 French   | Native         |
 | 🇬🇧 English  | C1 (IELTS prep) |
-| 🇷🇼 Kinyarwanda | Conversational |
-| 🇮🇹 Italian  | Basic        |
+| 🇩🇪 German   | B1 (intermediate) |
 
----
-
-### 📬 Connect
-
-- GitHub: [VinEckSie](https://github.com/VinEckSie)
-- Mastodon: [@rustfromscratch@fosstodon.org](https://fosstodon.org/@rustfromscratch)
-- Bluesky: `@rustfromscratch.bsky.social`
-- Email: **vincent.rust.dev [at] protonmail [dot] com**
-
----
-
-<sub>🛠️ Built with Rust • Last updated: June 2025</sub>
-
-
-<h4 align="center"><a href="https://caceresenzo.dev" target="_blank">https://caceresenzo.dev</a></h4>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="vuejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="chrome" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="chrome" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="chrome" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="chrome" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="chrome" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg" alt="chrome" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
-</p>
-
-
-Hi! I’m transitioning to Rust after 14 years as a Microsoft developer. I’ve chosen Rust for its performance, safety, and modern tooling—and because I believe it’s the future of systems and blockchain development.
-
-Right now, I’m focused on building backend systems and diving into blockchain tech with Substrate, libp2p, and zero-knowledge proofs. This is just the beginning—my master plan is evolving as I learn and grow.
-
-I'm here to connect, build, and contribute to the Rust community. Let’s see how far we can go. 🦀🚀
-
-✉️  [Contact me](mailto:vesremotesolutions@pm.me)
-
-
-## 🌱 My Core Principles
-
-- **Genuine Strength & Patience**: True strength lies in mastering reactions. This guides every code I write, team interaction, and project I undertake.
-- **Integrity & Respect**: Fear God, treat everyone with respect, and act with integrity. As a Muslim, I represent Prophet Muhammad ﷺ.
-
-## 🔧 Tech Stack
-
-### Tech & Domains
-🔗 APIs (REST, GraphQL) | 💻 CLI | 🔒 Blockchain & Cryptography
-
-### Rust Architecture
-🔧 Hexagonal Architecture | 🌀 Domain-Driven Design | ✅ Test-Driven Development
+<br/>
 
 <!--
-### Contribution
-
-### Projects
-
-### Skills
-
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a><a href="https://www.visualstudiocode.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a><a href="https://near.academy/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
-</p>
-
-
--->
-
-### Socials
-
-<p align="left"> 
-
- <a href="https://www.linkedin.com/in/vincent-e-926828bb/" target="_blank" rel="noreferrer"> 
- <picture>
-     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
- </picture> 
- </a> 
-
-  <a href="https://discord.com/users/vincentecksie" target="_blank" rel="noreferrer"> 
- <picture>
-     <img src="https://github.com/user-attachments/assets/4fd2089d-859f-490c-91ce-9af37c26ca58" width="32" height="32" /> 
- </picture> 
- </a> 
-
-  <a href="https://rust-lang.zulipchat.com/#user/783360" target="_blank" rel="noreferrer"> 
- <picture>
-     <img src="https://github.com/user-attachments/assets/4ce5ba58-b610-45ef-9874-b01c9fc9c121" width="32" height="32" /> 
- </picture> 
- </a> 
- 
- <a href="https://users.rust-lang.org/u/vincent_ecksie/summary" target="_blank" rel="noreferrer"> 
- <picture>   
-     <img src="https://github.com/user-attachments/assets/007297c4-05fb-4abd-9c8d-fa9138d39963" width="32" height="32" /> 
- </picture> 
- </a> 
-
- 
-
-<a href="http://www.github.com/VinEckSie"><img src="https://github-readme-stats.vercel.app/api?username=VinEckSie&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="VinEckSie's GitHub stats" /></a>
-
-    
+<a href="http://www.github.com/VinEckSie"><img src="https://github-readme-stats.vercel.app/api?username=VinEckSie&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="VinEckSie's GitHub stats" /></a>   
 </p>
 
 <a href="https://github.com/VinEckSie" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinEckSie&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
@@ -198,13 +116,7 @@ I'm here to connect, build, and contribute to the Rust community. Let’s see ho
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinecksie&layout=donut&theme=dark&hide=html,css,javascript,scss)](https://github.com/vinecksie)
 
 [![Github Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=vinecksie&theme=github-compact)](https://github.com/vinecksie/github-readme-activity-graph)
-
----
-
----
----
-
----
+-->
 
 ### 📫 Contact / Developer Profiles
 
@@ -219,6 +131,23 @@ I'm here to connect, build, and contribute to the Rust community. Let’s see ho
 [![YouTube](https://img.shields.io/badge/Fearless_in_Rust-DD0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@RustFromScratch)
 [![CodeCrafters](https://img.shields.io/badge/CodeCrafters-404060?style=for-the-badge)](https://app.codecrafters.io/users/feliposz)
 [![Rust Discord](https://img.shields.io/badge/Rust%20Discord-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/rust-lang)
+
+<sub>🛠️ Built with Rust • Last updated: June 2025</sub>
+
+
+---
+
+### 📡 Connect & Follow
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/VinEckSie)
+[![Email](https://img.shields.io/badge/Email-ProtonMail-8B89CC?style=for-the-badge&logo=protonmail)](mailto:vincent.rust.dev@protonmail.com)
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon)](https://fosstodon.org/@rustfromscratch)
+[![Bluesky](https://img.shields.io/badge/Bluesky-1DA1F2?style=for-the-badge&logo=bluesky)](https://bsky.app/profile/rustfromscratch.bsky.social)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vincent-eckert-sierota/)
+[![Rust Forum](https://img.shields.io/badge/Rust%20Forum-orange?style=for-the-badge&logo=discourse)](https://users.rust-lang.org/u/VinEckSie)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/vincentecksie)
+[![Fearless in Rust](https://img.shields.io/badge/YouTube-Fearless_in_Rust-DD0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@RustFromScratch)
+[![CodeCrafters](https://img.shields.io/badge/CodeCrafters-404060?style=for-the-badge)](https://app.codecrafters.io/users/feliposz)
 
 <sub>🛠️ Built with Rust • Last updated: June 2025</sub>
 
