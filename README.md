@@ -12,7 +12,7 @@
 
 ## 🚀 What I Build
 
-I design and ship Rust software focused on applied cryptography and command-line tooling for developers.
+I develop high-performance Rust software with a strong focus on systems programming and a growing specialization in cryptography.
 
 <br/>
 
