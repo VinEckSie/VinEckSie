@@ -3,9 +3,8 @@
 <p align="center">
   <em>Rust Software Engineer • Applied Cryptography • CLI Applications</em><br/>
   <strong>Security and performance aren’t trade-offs — I deliver both.</strong><br/><br/>
-  <a href="https://github.com/VinEckSie">GitHub</a> • 
-  <a href="https://www.notion.so/YOUR-LINK">Portfolio</a> • 
-  <a href="mailto:vincent.rust.dev@protonmail.com">Email</a> • 
+  <a href="mailto:vincent.rust.dev@protonmail.com">Contact Me</a> • 
+  <a href="https://www.notion.so/YOUR-LINK">My Portfolio</a> • 
   <a href="https://www.linkedin.com/in/vincent-eckert-sierota/">LinkedIn</a>
 </p>
 
@@ -32,7 +31,8 @@ I design and ship Rust software focused on applied cryptography and command-line
 ### 🧠 [RustPulse](https://github.com/VinEckSie/RustPulse) – Real-Time Server Monitoring System
 > A production-grade monitoring suite built entirely in Rust.  
 
-[![CI](https://github.com/VinEckSie/RustPulse/actions/workflows/ci.yml/badge.svg)](https://github.com/VinEckSie/RustPulse/actions) [![Last Commit](https://img.shields.io/github/last-commit/VinEckSie/rustpulse)](https://github.com/VinEckSie/rustpulse/commits/main) [![CI](https://github.com/VinEckSie/RustPulse/actions/workflows/audit.yml/badge.svg)](https://github.com/VinEckSie/RustPulse/actions)  [![License](https://img.shields.io/github/license/VinEckSie/RustPulse)](https://github.com/VinEckSie/RustPulse/blob/main/LICENSE)  
+[![CI](https://img.shields.io/github/actions/workflow/status/VinEckSie/RustPulse/ci.yml?label=CI&logo=github)](https://github.com/VinEckSie/RustPulse/actions) [![Audit](https://img.shields.io/github/actions/workflow/status/VinEckSie/RustPulse/audit.yml?label=Audit&logo=github)](https://github.com/VinEckSie/RustPulse/actions/) [![Last Commit](https://img.shields.io/github/last-commit/VinEckSie/rustpulse?label=Last%20Commit)](https://github.com/VinEckSie/rustpulse/commits/main) [![License](https://img.shields.io/github/license/VinEckSie/RustPulse?label=License)](https://github.com/VinEckSie/RustPulse/blob/main/LICENSE)
+
 
 - 📊 Real-time metrics: CPU, RAM, Disk, Network  
 - 🔐 REST and gRPC APIs secured with JWT authentication  
@@ -42,13 +42,11 @@ I design and ship Rust software focused on applied cryptography and command-line
 <br/>
 
 ## 📖 Sealed in Rust — My Cryptography Book
-
-### 🔐  [Sealed in Rust](https://github.com/VinEckSie/sealed-in-rust) – Cryptography Book (WIP)  
 > A hands-on guide to implementing cryptographic algorithms in idiomatic Rust.
 
-[![Docs](https://img.shields.io/badge/docs-online-blue)](https://VinEckSie.github.io/sealed-in-rust)
-[![Last Commit](https://img.shields.io/github/last-commit/VinEckSie/sealed-in-rust)](https://github.com/VinEckSie/sealed-in-rust/commits/main)
-[![License](https://img.shields.io/github/license/VinEckSie/sealed-in-rust)](https://github.com/VinEckSie/sealed-in-rust/blob/main/LICENSE)
+📘 [Start reading the book](https://VinEckSie.github.io/sealed-in-rust) — chapters released progressively.
+
+[![Docs](https://img.shields.io/badge/Docs-Online-blue?style=flat&logo=readthedocs)](https://VinEckSie.github.io/sealed-in-rust) [![Last Commit](https://img.shields.io/github/last-commit/VinEckSie/sealed-in-rust?label=Last%20Commit)](https://github.com/VinEckSie/sealed-in-rust/commits/main) [![License](https://img.shields.io/github/license/VinEckSie/sealed-in-rust?label=License)](https://github.com/VinEckSie/sealed-in-rust/blob/main/LICENSE)
 
 - Covers AES, RSA, SHA2, Diffie-Hellman, and modern primitives  
 - Real-world focus: secure APIs, zero-copy patterns, and a bonus on blockchain & aerospace algorithms 
@@ -61,7 +59,7 @@ I design and ship Rust software focused on applied cryptography and command-line
 
 I'm sharpening my Rust skills through real-world system design and platform tooling.
 
-[![CI](https://github.com/VinEckSie/RustPulse/actions/workflows/ci.yml/badge.svg)](https://github.com/VinEckSie/RustPulse/actions) [![Last Commit](https://img.shields.io/github/last-commit/VinEckSie/rustpulse)](https://github.com/VinEckSie/rustpulse/commits/main) [![CI](https://github.com/VinEckSie/RustPulse/actions/workflows/audit.yml/badge.svg)](https://github.com/VinEckSie/RustPulse/actions)  [![License](https://img.shields.io/github/license/VinEckSie/RustPulse)](https://github.com/VinEckSie/RustPulse/blob/main/LICENSE)  
+[![CI](https://img.shields.io/github/actions/workflow/status/VinEckSie/RustPulse/ci.yml?label=CI&logo=github)](https://github.com/VinEckSie/RustPulse/actions/workflows/ci.yml) [![Audit](https://img.shields.io/github/actions/workflow/status/VinEckSie/RustPulse/audit.yml?label=Audit&logo=github)](https://github.com/VinEckSie/RustPulse/actions/workflows/audit.yml) [![Last Commit](https://img.shields.io/github/last-commit/VinEckSie/RustPulse?label=Last%20Commit)](https://github.com/VinEckSie/RustPulse/commits/main) [![License](https://img.shields.io/github/license/VinEckSie/RustPulse?label=License)](https://github.com/VinEckSie/RustPulse/blob/main/LICENSE)
 
 - 🧱 CodeCrafters challenges – HTTP server, Redis, Kafka, DNS resolver, SQLite engine, and more  
 - 🧭 Personal exercises – Docker, Kubernetes, gRPC, Prometheus, Grafana, and beyond  
@@ -79,7 +77,7 @@ I'm sharpening my Rust skills through real-world system design and platform tool
 
 **Fearless in Rust** is my YouTube channel where I document and share my Rust journey — from building real products to exploring cryptographic concepts and teaching the fundamentals.
 
-- 🛠 Behind-the-scenes of my core products (like RustPulse) — design, decisions, architecture  
+- 🛠 Behind-the-scenes of my core products — design, decisions, architecture  
 - 🔐 Applied cryptography videos inspired by my book *Sealed in Rust* (AES, RSA, hashing, etc.)  
 - 🧩 Beginner-friendly series à la *Rustlings* — ideal for devs new to Rust or systems programming  
 
@@ -93,7 +91,7 @@ I ship real products in Rust — from secure cryptographic libraries to async sy
 - 🔧 Hexagonal Architecture | 🌀 Domain-Driven Design | ✅ Test-Driven Development
 - 🧪 CI & Testing: GitHub Actions • criterion • thiserror  
 - 🔐 Cryptography & CLI (Sealed in Rust, SigVault): zero-copy, safe abstractions, custom primitives  
-- 📊 Systems Monitoring (RustPulse): async pipelines, structured logging  
+- 📊 Systems Monitoring: async pipelines, structured logging  
 - ⚙️ Dev Workflow: RustRover • rust-analyzer • Makefiles • Linux • Zsh
 
 <br/>
