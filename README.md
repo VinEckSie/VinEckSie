@@ -1,17 +1,102 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Vincent
-===============================================================================================================================
+<h1 align="center">Hi 👋 I'm Vincent 🦀</h1>
 
-<!--
-Rust Engineer
--------------
--->
+<p align="center">
+  <em>Rust Software Engineer • Applied Cryptography • CLI Applications</em><br/>
+  <strong>Security and performance aren’t trade-offs — I deliver both.</strong><br/><br/>
+  <a href="https://github.com/VinEckSie">GitHub</a> • 
+  <a href="https://www.notion.so/YOUR-LINK">Portfolio</a> • 
+  <a href="mailto:vincent.rust.dev@protonmail.com">Email</a> • 
+  <a href="https://www.linkedin.com/in/vincent-eckert-sierota/">LinkedIn</a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/botir-khaltaev-964977264/)
-[![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-4C4C4C?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/botirk38)
-[![CodeCrafters](https://img.shields.io/badge/-CodeCrafters-404060?logoColor=000&style=for-the-badge)](https://app.codecrafters.io/users/feliposz)
-[![Portfolio](https://img.shields.io/badge/-CodeCrafters-404060?logoColor=000&style=for-the-badge)](https://app.codecrafters.io/users/feliposz)
+<br/>
 
-✉️ Email me: [btrghstk@gmail.com](mailto:btrghstk@gmail.com)
+### 🚀 What I Build
+
+I specialize in designing and shipping Rust-based **products** that solve real-world engineering problems in infrastructure, embedded, and security domains.
+
+---
+
+<br/>
+
+### 🧩 Core Products
+
+#### 🧠 [RustPulse](https://github.com/VinEckSie/RustPulse) – Server Monitoring CLI  
+> Terminal-based resource monitor built for speed, visibility, and extensibility.
+
+[![CI](https://github.com/VinEckSie/RustPulse/actions/workflows/ci.yml/badge.svg)](https://github.com/VinEckSie/RustPulse/actions)  
+[![License](https://img.shields.io/github/license/VinEckSie/RustPulse)](https://github.com/VinEckSie/RustPulse/blob/main/LICENSE)  
+[![Stars](https://img.shields.io/github/stars/VinEckSie/RustPulse?style=social)](https://github.com/VinEckSie/RustPulse)
+
+- Live terminal UI using `ratatui`
+- `tokio`-powered async data collection
+- System metrics: CPU, RAM, disk I/O, network
+- Plugin support (planned) for custom metrics
+
+---
+
+#### 🔐 [crypto-rs-lab](https://github.com/VinEckSie/crypto-rs-lab) – Cryptographic Toolkit  
+> A modular Rust crate for secure, auditable cryptographic primitives.
+
+[![CI](https://github.com/VinEckSie/crypto-rs-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/VinEckSie/crypto-rs-lab/actions)  
+[![Crates.io](https://img.shields.io/crates/v/crypto-rs-lab)](https://crates.io/crates/crypto-rs-lab) *(once published)*  
+[![Docs](https://img.shields.io/badge/docs.rs-online-blue)](https://docs.rs/crypto-rs-lab) *(if published to docs.rs)*
+
+- Implements AES, RSA, SHA2 + custom algorithms
+- Focus on clarity, correctness, and side-channel safety
+- CLI companion for signing, verifying, encoding
+
+---
+
+#### 📦 TinyEmbed *(coming soon)* – Embedded Rust Starter Kits
+
+> Ready-to-use templates for rapid prototyping on Cortex-M and RISC-V MCUs.
+
+- Zero-boilerplate launch configs
+- HAL layer + clean architecture
+- Defense/aerospace–grade reliability targets
+
+---
+
+### 🛠️ Tooling & Stack
+
+Rust • Cargo • `tokio` • `ratatui` • `clap` • `serde` • `criterion`  
+QEMU • `embedded-hal` • LLVM • GDB • GitHub Actions  
+Linux • VS Code + rust-analyzer • Makefiles • Zsh
+
+---
+
+### 🎯 Vision
+
+- Build battle-tested, production-grade tools for real engineers
+- Ship CLI and embedded products, not just demos
+- Push Rust further into DevOps, cryptography, and embedded domains
+- Contribute to open-source ecosystems I rely on
+
+---
+
+### 🌍 Languages
+
+| Language   | Level        |
+|------------|--------------|
+| 🇫🇷 French   | Native       |
+| 🇬🇧 English  | C1 (IELTS prep) |
+| 🇷🇼 Kinyarwanda | Conversational |
+| 🇮🇹 Italian  | Basic        |
+
+---
+
+### 📬 Connect
+
+- GitHub: [VinEckSie](https://github.com/VinEckSie)
+- Mastodon: [@rustfromscratch@fosstodon.org](https://fosstodon.org/@rustfromscratch)
+- Bluesky: `@rustfromscratch.bsky.social`
+- Email: **vincent.rust.dev [at] protonmail [dot] com**
+
+---
+
+<sub>🛠️ Built with Rust • Last updated: June 2025</sub>
+
 
 <h4 align="center"><a href="https://caceresenzo.dev" target="_blank">https://caceresenzo.dev</a></h4>
 
@@ -115,5 +200,26 @@ I'm here to connect, build, and contribute to the Rust community. Let’s see ho
 
 [![Github Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=vinecksie&theme=github-compact)](https://github.com/vinecksie/github-readme-activity-graph)
 
+---
 
+---
+---
+
+---
+
+### 📫 Contact / Developer Profiles
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/VinEckSie)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vincent-eckert-sierota/)
+[![Email](https://img.shields.io/badge/Email-ProtonMail-8B89CC?style=for-the-badge&logo=protonmail)](mailto:vincent.rust.dev@protonmail.com)  
+
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon)](https://fosstodon.org/@rustfromscratch)
+[![Bluesky](https://img.shields.io/badge/Bluesky-1DA1F2?style=for-the-badge&logo=bluesky)](https://bsky.app/profile/rustfromscratch.bsky.social)
+[![Rust Forum](https://img.shields.io/badge/Rust%20Forum-orange?style=for-the-badge&logo=discourse)](https://users.rust-lang.org/u/VinEckSie)  
+
+[![YouTube](https://img.shields.io/badge/Fearless_in_Rust-DD0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@RustFromScratch)
+[![CodeCrafters](https://img.shields.io/badge/CodeCrafters-404060?style=for-the-badge)](https://app.codecrafters.io/users/feliposz)
+[![Rust Discord](https://img.shields.io/badge/Rust%20Discord-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/rust-lang)
+
+<sub>🛠️ Built with Rust • Last updated: June 2025</sub>
 
