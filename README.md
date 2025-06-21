@@ -31,7 +31,7 @@ I design and ship Rust software focused on applied cryptography and command-line
 ### 🧠 [RustPulse](https://github.com/VinEckSie/RustPulse) – Real-Time Server Monitoring System
 > A production-grade monitoring suite built entirely in Rust.  
 
-[![CI](https://img.shields.io/github/actions/workflow/status/VinEckSie/RustPulse/ci.yml?label=CI&logo=github)](https://github.com/VinEckSie/RustPulse/actions) [![Audit](https://img.shields.io/github/actions/workflow/status/VinEckSie/RustPulse/audit.yml?label=Audit&logo=github)](https://github.com/VinEckSie/RustPulse/actions/) [![Last Commit](https://img.shields.io/github/last-commit/VinEckSie/rustpulse?label=Last%20Commit)](https://github.com/VinEckSie/rustpulse/commits/main) [![License](https://img.shields.io/github/license/VinEckSie/RustPulse?label=License)](https://github.com/VinEckSie/RustPulse/blob/main/LICENSE)
+[![CI](https://img.shields.io/github/actions/workflow/status/VinEckSie/RustPulse/ci.yml?label=CI&logo=github)](https://github.com/VinEckSie/RustPulse/actions) [![Audit](https://img.shields.io/github/actions/workflow/status/VinEckSie/RustPulse/audit.yml?label=Audit&logo=github)](https://github.com/VinEckSie/RustPulse/actions/) [![Last Commit](https://img.shields.io/github/last-commit/VinEckSie/rustpulse?label=Last%20Commit)](https://github.com/VinEckSie/rustpulse/commits/main)
 
 
 - 📊 Real-time metrics: CPU, RAM, Disk, Network  
@@ -42,11 +42,10 @@ I design and ship Rust software focused on applied cryptography and command-line
 <br/>
 
 ## 📖 Sealed in Rust — My Cryptography Book
+📘 [Start reading the book](https://VinEckSie.github.io/sealed-in-rust) — chapters released progressively.
 > A hands-on guide to implementing cryptographic algorithms in idiomatic Rust.
 
-📘 [Start reading the book](https://VinEckSie.github.io/sealed-in-rust) — chapters released progressively.
-
-[![Docs](https://img.shields.io/badge/Docs-Online-blue?style=flat&logo=readthedocs)](https://VinEckSie.github.io/sealed-in-rust) [![Last Commit](https://img.shields.io/github/last-commit/VinEckSie/sealed-in-rust?label=Last%20Commit)](https://github.com/VinEckSie/sealed-in-rust/commits/main) [![License](https://img.shields.io/github/license/VinEckSie/sealed-in-rust?label=License)](https://github.com/VinEckSie/sealed-in-rust/blob/main/LICENSE)
+[![Docs](https://img.shields.io/badge/Docs-Online-blue?style=flat&logo=readthedocs)](https://VinEckSie.github.io/sealed-in-rust) [![Last Commit](https://img.shields.io/github/last-commit/VinEckSie/sealed-in-rust?label=Last%20Commit)](https://github.com/VinEckSie/sealed-in-rust/commits/main)
 
 - Covers AES, RSA, SHA2, Diffie-Hellman, and modern primitives  
 - Real-world focus: secure APIs, zero-copy patterns, and a bonus on blockchain & aerospace algorithms 
@@ -55,31 +54,29 @@ I design and ship Rust software focused on applied cryptography and command-line
 
 <br/>
 
-## 🧪 Side Skills & Rust Challenges
-
-I'm sharpening my Rust skills through real-world system design and platform tooling.
-
-[![CI](https://img.shields.io/github/actions/workflow/status/VinEckSie/RustPulse/ci.yml?label=CI&logo=github)](https://github.com/VinEckSie/RustPulse/actions/workflows/ci.yml) [![Audit](https://img.shields.io/github/actions/workflow/status/VinEckSie/RustPulse/audit.yml?label=Audit&logo=github)](https://github.com/VinEckSie/RustPulse/actions/workflows/audit.yml) [![Last Commit](https://img.shields.io/github/last-commit/VinEckSie/RustPulse?label=Last%20Commit)](https://github.com/VinEckSie/RustPulse/commits/main) [![License](https://img.shields.io/github/license/VinEckSie/RustPulse?label=License)](https://github.com/VinEckSie/RustPulse/blob/main/LICENSE)
-
-- 🧱 CodeCrafters challenges – HTTP server, Redis, Kafka, DNS resolver, SQLite engine, and more  
-- 🧭 Personal exercises – Docker, Kubernetes, gRPC, Prometheus, Grafana, and beyond  
-- 💡 Focus on hexagonal architecture, test-driven development, and domain-driven design
-
-
-📂 [Side-skills products](https://github.com/VinEckSie/side-skills-products)
-
-
-<br/>
-
-## 🎥 Fearless in Rust — Educational Content
+## 🎥 Fearless in Rust — YouTube Channel
 
 [![YouTube](https://img.shields.io/badge/YouTube-DD0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@FearlessInRust)
 
-**Fearless in Rust** is my YouTube channel where I document and share my Rust journey — from building real products to exploring cryptographic concepts and teaching the fundamentals.
+> Fearless in Rust is my YouTube channel where I share my Rust journey through real products, cryptography, and beginner-friendly lessons.
 
 - 🛠 Behind-the-scenes of my core products — design, decisions, architecture  
 - 🔐 Applied cryptography videos inspired by my book *Sealed in Rust* (AES, RSA, hashing, etc.)  
 - 🧩 Beginner-friendly series à la *Rustlings* — ideal for devs new to Rust or systems programming  
+
+<br/>
+
+## 🧪 Side Skills
+
+📂 [Browse the full challenge repo](https://github.com/VinEckSie/side-skills-products)
+> I'm sharpening my Rust skills through real-world system design and platform tooling.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/VinEckSie/RustPulse/ci.yml?label=CI&logo=github)](https://github.com/VinEckSie/RustPulse/actions/workflows/ci.yml) [![Audit](https://img.shields.io/github/actions/workflow/status/VinEckSie/RustPulse/audit.yml?label=Audit&logo=github)](https://github.com/VinEckSie/RustPulse/actions/workflows/audit.yml) [![Last Commit](https://img.shields.io/github/last-commit/VinEckSie/RustPulse?label=Last%20Commit)](https://github.com/VinEckSie/RustPulse/commits/main)
+
+- 🧱 HTTP server, Redis, Kafka, DNS resolver, SQLite engine, and more from CodeCrafters challenges
+- 🧭 Docker, Kubernetes, gRPC, Prometheus, Grafana, and beyond from personal implementations
+
+
 
 <br/>
 
@@ -90,7 +87,7 @@ I ship real products in Rust — from secure cryptographic libraries to async sy
 - 🦀 Core: Rust • Cargo • tokio • clap • serde
 - 🔧 Hexagonal Architecture | 🌀 Domain-Driven Design | ✅ Test-Driven Development
 - 🧪 CI & Testing: GitHub Actions • criterion • thiserror  
-- 🔐 Cryptography & CLI (Sealed in Rust, SigVault): zero-copy, safe abstractions, custom primitives  
+- 🔐 Cryptography & CLI: zero-copy, safe abstractions, custom primitives  
 - 📊 Systems Monitoring: async pipelines, structured logging  
 - ⚙️ Dev Workflow: RustRover • rust-analyzer • Makefiles • Linux • Zsh
 
@@ -106,19 +103,23 @@ I ship real products in Rust — from secure cryptographic libraries to async sy
 
 <br/>
 
+<!--[![CodeCrafters](https://img.shields.io/badge/CodeCrafters-404060?style=for-the-badge)](https://app.codecrafters.io/users/feliposz)-->
+
 ## 📡 Connect & Follow Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/VinEckSie)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vincent-eckert-sierota/)
-[![Email](https://img.shields.io/badge/Email-ProtonMail-8B89CC?style=for-the-badge&logo=protonmail)](mailto:vincent.rust.dev@protonmail.com)  
+### 📇 Contact & Profiles  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github)](https://github.com/VinEckSie)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vincent-eckert-sierota/)
+[![Email](https://img.shields.io/badge/Email-ProtonMail-8B89CC?style=flat-square&logo=protonmail)](mailto:vincent.rust.dev@protonmail.com)  
 
-[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon)](https://fosstodon.org/@rustfromscratch)
-[![Bluesky](https://img.shields.io/badge/Bluesky-1DA1F2?style=for-the-badge&logo=bluesky)](https://bsky.app/profile/rustfromscratch.bsky.social)
-[![Rust Forum](https://img.shields.io/badge/Rust%20Forum-orange?style=for-the-badge&logo=discourse)](https://users.rust-lang.org/u/VinEckSie)  
+### 🌍 Communities & Social  
+[![Rust Forum](https://img.shields.io/badge/Rust%20Forum-orange?style=flat-square&logo=discourse)](https://users.rust-lang.org/u/VinEckSie)[![Rust Discord](https://img.shields.io/badge/Rust%20Discord-5865F2?style=flat-square&logo=discord)](https://discord.gg/rust-lang)[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=flat-square&logo=mastodon)](https://fosstodon.org/@rustfromscratch)[![Bluesky](https://img.shields.io/badge/Bluesky-1DA1F2?style=flat-square&logo=bluesky)](https://bsky.app/profile/rustfromscratch.bsky.social)
 
-[![YouTube](https://img.shields.io/badge/Fearless_in_Rust-DD0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@RustFromScratch)
-[![CodeCrafters](https://img.shields.io/badge/CodeCrafters-404060?style=for-the-badge)](https://app.codecrafters.io/users/feliposz)
-[![Rust Discord](https://img.shields.io/badge/Rust%20Discord-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/rust-lang)
+
+### 🎓 Content & Learning  
+[![YouTube](https://img.shields.io/badge/Fearless_in_Rust-DD0000?style=flat-square&logo=youtube)](https://www.youtube.com/@RustFromScratch)
+[![CodeCrafters](https://img.shields.io/badge/CodeCrafters-404060?style=flat-square)](https://app.codecrafters.io/users/feliposz)
+
 
 <sub>🛠️ Built with Rust • Last updated: June 2025</sub>
 
