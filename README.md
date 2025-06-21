@@ -13,7 +13,7 @@
 
 ### 🚀 What I Build
 
-I specialize in designing and shipping Rust-based **products** that solve real-world engineering problems in infrastructure, embedded, and security domains.
+I design and ship Rust software focused on applied cryptography and command-line tooling for developers.
 
 ---
 
@@ -23,7 +23,7 @@ I specialize in designing and shipping Rust-based **products** that solve real-w
 #### 🧠 [RustPulse](https://github.com/VinEckSie/RustPulse) – Server Monitoring CLI  
 > Terminal-based resource monitor built for speed, visibility, and extensibility.
 
-[![CI](https://github.com/VinEckSie/RustPulse/actions/workflows/ci.yml/badge.svg)](https://github.com/VinEckSie/RustPulse/actions)  
+[![CI](https://github.com/VinEckSie/RustPulse/actions/workflows/ci.yml/badge.svg)](https://github.com/VinEckSie/RustPulse/actions)[![CI](https://github.com/VinEckSie/RustPulse/actions/workflows/audit.yml/badge.svg)](https://github.com/VinEckSie/RustPulse/actions)  
 [![License](https://img.shields.io/github/license/VinEckSie/RustPulse)](https://github.com/VinEckSie/RustPulse/blob/main/LICENSE)  
 [![Stars](https://img.shields.io/github/stars/VinEckSie/RustPulse?style=social)](https://github.com/VinEckSie/RustPulse)
 
