@@ -18,9 +18,9 @@ I design and ship Rust software focused on applied cryptography and command-line
 
 ## 🎯 My Vision
 
-- 🛡️ I build secure, production-grade Rust tools — from real-time monitoring systems to applied cryptography.
-- 🧰 I focus on CLI-first products that solve real-world problems for developers and ops teams.
-- 📚 I teach through Fearless in Rust and contribute back to the ecosystem by sharing everything I learn.
+- 🛡️ I build secure, production-grade Rust tools for monitoring and cryptography.
+- 🧰 I focus on CLI products that solve real problems for devs and ops.
+- 📚 I teach through Fearless in Rust and give back by sharing what I learn.
 
 ![Commits This Year](https://img.shields.io/badge/Commits_This_Year-69-informational?style=flat&logo=github)
 
@@ -37,7 +37,6 @@ I design and ship Rust software focused on applied cryptography and command-line
 - 📊 Real-time metrics: CPU, RAM, Disk, Network  
 - 🔐 REST and gRPC APIs secured with JWT authentication  
 - 🗃 PostgreSQL for persistent metrics and alert history  
-- 🧪 CI/CD, code linting, coverage testing, and structured error handling  
 
 <br/>
 
@@ -49,8 +48,7 @@ I design and ship Rust software focused on applied cryptography and command-line
 
 - Covers AES, RSA, SHA2, Diffie-Hellman, and modern primitives  
 - Real-world focus: secure APIs, zero-copy patterns, and a bonus on blockchain & aerospace algorithms 
-- Accompanied by code examples and CLI tools for hands-on learning
-- Delivered chapter by chapter — no fixed release date 
+- Accompanied by code examples and CLI tools for hands-on learning 
 
 <br/>
 
@@ -58,17 +56,17 @@ I design and ship Rust software focused on applied cryptography and command-line
 
 [![YouTube](https://img.shields.io/badge/Watch_on_YouTube-DD0000?style=flat-square&logo=youtube)](https://www.youtube.com/@FearlessInRust)
 
-> Fearless in Rust is my YouTube channel where I share my Rust journey through real products, cryptography, and beginner-friendly lessons.
+> Fearless in Rust is my YouTube channel where I share real Rust projects, cryptography concepts, and beginner-friendly lessons.
 
 - 🛠 Behind-the-scenes of my core products — design, decisions, architecture  
-- 🔐 Applied cryptography videos inspired by my book *Sealed in Rust* (AES, RSA, hashing, etc.)  
-- 🧩 Beginner-friendly series à la *Rustlings* — ideal for devs new to Rust or systems programming  
+- 🔐 Cryptography deep dives inspired by Sealed in Rust 
+- 🧩 Rust fundamentals, explained simply — perfect for new systems developers  
 
 <br/>
 
 ## 🧪 Side Skills
 
-📂 [Browse the full challenge repo](https://github.com/VinEckSie/side-skills-products)
+📂 [Browse the challenge repo](https://github.com/VinEckSie/side-skills-products)
 > I'm sharpening my Rust skills through real-world system design and platform tooling.
 
 [![CI](https://img.shields.io/github/actions/workflow/status/VinEckSie/RustPulse/ci.yml?label=CI&logo=github)](https://github.com/VinEckSie/RustPulse/actions/workflows/ci.yml) [![Audit](https://img.shields.io/github/actions/workflow/status/VinEckSie/RustPulse/audit.yml?label=Audit&logo=github)](https://github.com/VinEckSie/RustPulse/actions/workflows/audit.yml) [![Last Commit](https://img.shields.io/github/last-commit/VinEckSie/RustPulse?label=Last%20Commit)](https://github.com/VinEckSie/RustPulse/commits/main)
