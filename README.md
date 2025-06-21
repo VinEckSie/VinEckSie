@@ -17,6 +17,16 @@ I design and ship Rust software focused on applied cryptography and command-line
 
 <br/>
 
+## 🎯 My Vision
+
+- 🛡️ I build secure, production-grade Rust tools — from real-time monitoring systems to applied cryptography.
+- 🧰 I focus on CLI-first products that solve real-world problems for developers and ops teams.
+- 📚 I teach through Fearless in Rust and contribute back to the ecosystem by sharing everything I learn.
+
+![Commits This Year](https://img.shields.io/badge/Commits_This_Year-69-informational?style=flat&logo=github)
+
+<br/>
+
 ## 🧩 Core Products
 
 ### 🧠 [RustPulse](https://github.com/VinEckSie/RustPulse) – Real-Time Server Monitoring System
@@ -30,6 +40,8 @@ I design and ship Rust software focused on applied cryptography and command-line
 - 🧪 CI/CD, code linting, coverage testing, and structured error handling  
 
 <br/>
+
+## 📖 Sealed in Rust — My Cryptography Book
 
 ### 🔐  [Sealed in Rust](https://github.com/VinEckSie/sealed-in-rust) – Cryptography Book (WIP)  
 > A hands-on guide to implementing cryptographic algorithms in idiomatic Rust.
@@ -45,7 +57,7 @@ I design and ship Rust software focused on applied cryptography and command-line
 
 <br/>
 
-## 🧪 Side Skills & Challenges
+## 🧪 Side Skills & Rust Challenges
 
 I'm sharpening my Rust skills through real-world system design and platform tooling.
 
@@ -61,7 +73,7 @@ I'm sharpening my Rust skills through real-world system design and platform tool
 
 <br/>
 
-## 🎥 Educational Content: Fearless in Rust
+## 🎥 Fearless in Rust — Educational Content
 
 [![YouTube](https://img.shields.io/badge/YouTube-DD0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@FearlessInRust)
 
@@ -73,7 +85,7 @@ I'm sharpening my Rust skills through real-world system design and platform tool
 
 <br/>
 
-## 🛠️ My Rust Stack
+## 🛠️ My Rust Toolchain
 
 I ship real products in Rust — from secure cryptographic libraries to async system tools.
 
@@ -86,18 +98,7 @@ I ship real products in Rust — from secure cryptographic libraries to async sy
 
 <br/>
 
-## 🎯 Vision
-
-- 🛡️ I build secure, production-grade Rust tools — from real-time monitoring systems to applied cryptography.
-- 🧰 I focus on CLI-first products that solve real-world problems for developers and ops teams.
-- 📚 I teach through Fearless in Rust and contribute back to the ecosystem by sharing everything I learn.
-
-![Commits This Year](https://img.shields.io/badge/Commits_This_Year-69-informational?style=flat&logo=github)
-
-
-<br/>
-
-## 🌍 Languages
+## 🌍 Languages I Use
 
 | Language   | Proficiency    |
 |------------|----------------|
@@ -107,18 +108,7 @@ I ship real products in Rust — from secure cryptographic libraries to async sy
 
 <br/>
 
-<!--
-<a href="http://www.github.com/VinEckSie"><img src="https://github-readme-stats.vercel.app/api?username=VinEckSie&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="VinEckSie's GitHub stats" /></a>   
-</p>
-
-<a href="https://github.com/VinEckSie" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinEckSie&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinecksie&layout=donut&theme=dark&hide=html,css,javascript,scss)](https://github.com/vinecksie)
-
-[![Github Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=vinecksie&theme=github-compact)](https://github.com/vinecksie/github-readme-activity-graph)
--->
-
-### 📫 Contact / Developer Profiles
+## 📡 Connect & Follow Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/VinEckSie)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vincent-eckert-sierota/)
@@ -134,20 +124,14 @@ I ship real products in Rust — from secure cryptographic libraries to async sy
 
 <sub>🛠️ Built with Rust • Last updated: June 2025</sub>
 
+<!--
+<a href="http://www.github.com/VinEckSie"><img src="https://github-readme-stats.vercel.app/api?username=VinEckSie&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="VinEckSie's GitHub stats" /></a>   
+</p>
 
----
+<a href="https://github.com/VinEckSie" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinEckSie&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### 📡 Connect & Follow
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinecksie&layout=donut&theme=dark&hide=html,css,javascript,scss)](https://github.com/vinecksie)
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/VinEckSie)
-[![Email](https://img.shields.io/badge/Email-ProtonMail-8B89CC?style=for-the-badge&logo=protonmail)](mailto:vincent.rust.dev@protonmail.com)
-[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon)](https://fosstodon.org/@rustfromscratch)
-[![Bluesky](https://img.shields.io/badge/Bluesky-1DA1F2?style=for-the-badge&logo=bluesky)](https://bsky.app/profile/rustfromscratch.bsky.social)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vincent-eckert-sierota/)
-[![Rust Forum](https://img.shields.io/badge/Rust%20Forum-orange?style=for-the-badge&logo=discourse)](https://users.rust-lang.org/u/VinEckSie)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/vincentecksie)
-[![Fearless in Rust](https://img.shields.io/badge/YouTube-Fearless_in_Rust-DD0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@RustFromScratch)
-[![CodeCrafters](https://img.shields.io/badge/CodeCrafters-404060?style=for-the-badge)](https://app.codecrafters.io/users/feliposz)
-
-<sub>🛠️ Built with Rust • Last updated: June 2025</sub>
+[![Github Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=vinecksie&theme=github-compact)](https://github.com/vinecksie/github-readme-activity-graph)
+-->
 
