@@ -56,7 +56,7 @@ I design and ship Rust software focused on applied cryptography and command-line
 
 ## 🎥 Fearless in Rust — YouTube Channel
 
-[![YouTube](https://img.shields.io/badge/YouTube-DD0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@FearlessInRust)
+[![YouTube](https://img.shields.io/badge/Watch_on_YouTube-DD0000?style=flat-square&logo=youtube)](https://www.youtube.com/@FearlessInRust)
 
 > Fearless in Rust is my YouTube channel where I share my Rust journey through real products, cryptography, and beginner-friendly lessons.
 
