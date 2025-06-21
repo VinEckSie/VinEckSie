@@ -17,7 +17,6 @@ I specialize in designing and shipping Rust-based **products** that solve real-w
 
 ---
 
-<br/>
 
 ### 🧩 Core Products
 
