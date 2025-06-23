@@ -93,11 +93,75 @@ I ship real products in Rust — from secure cryptographic libraries to async sy
 
 ## 🌍 Languages I Use
 
+<table>
+<tr>
+<!-- Left column: language table -->
+<td valign="top" width="60%">
+
+<pre>
+
+| Language   | Proficiency     |
+|------------|-----------------|
+| 🇫🇷 French   | Native          |
+| 🇬🇧 English  | C1 (IELTS prep) |
+| 🇩🇪 German   | B1 (intermediate) |
+
+</pre>
+
+</td>
+
+<!-- Right column: GitHub donut chart -->
+<td valign="top" width="40%">
+
+<a href="https://github.com/vinecksie">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinecksie&layout=donut&theme=dark&hide=html,css,javascript,scss" alt="Languages Used" />
+</a>
+
+</td>
+</tr>
+</table>
+
+
+<table>
+<tr>
+<td valign="top">
+
+<!-- Language proficiency table rendered as preformatted text -->
+
+<pre>
+
+| Language   | Proficiency     |
+|------------|-----------------|
+| 🇫🇷 French   | Native          |
+| 🇬🇧 English  | C1 (IELTS prep) |
+| 🇩🇪 German   | B1 (intermediate) |
+
+</pre>
+
+</td>
+<td valign="top">
+
+<!-- Language donut chart -->
+
+<a href="https://github.com/vinecksie">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinecksie&layout=donut&theme=dark&hide=html,css,javascript,scss" alt="Languages Used" />
+</a>
+
+</td>
+</tr>
+</table>
+
+
+
 | Language   | Proficiency    |
 |------------|----------------|
 | 🇫🇷 French   | Native         |
 | 🇬🇧 English  | C1 (IELTS prep) |
 | 🇩🇪 German   | B1 (intermediate) |
+
+
+[![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=vinecksie&layout=donut&theme=dark&hide=html,css,javascript,scss)](https://github.com/vinecksie)
+
 
 <br/>
 
@@ -123,12 +187,11 @@ I ship real products in Rust — from secure cryptographic libraries to async sy
 
 <!--
 <a href="http://www.github.com/VinEckSie"><img src="https://github-readme-stats.vercel.app/api?username=VinEckSie&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="VinEckSie's GitHub stats" /></a>   
-</p>
+
 
 <a href="https://github.com/VinEckSie" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinEckSie&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinecksie&layout=donut&theme=dark&hide=html,css,javascript,scss)](https://github.com/vinecksie)
-
+-->
+<!--
 [![Github Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=vinecksie&theme=github-compact)](https://github.com/vinecksie/github-readme-activity-graph)
 -->
 
