@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Vincent 🦀</h1>
 
 <p align="center">
-  <em>Rust Software Engineer • Applied Cryptography • CLI Applications</em><br/>
+  <em>Rust Software Engineer • Applied Cryptography • Backend & Systems Programming</em><br/>
   <strong>Security and performance aren’t trade-offs — I deliver both.</strong><br/><br/>
   <a href="mailto:vincent.rust.dev@protonmail.com">Contact Me</a> • 
   <a href="https://www.notion.so/YOUR-LINK">My Portfolio</a> • 
@@ -22,7 +22,7 @@ I develop high-performance Rust software with a strong focus on systems programm
 - 🧰 I focus on CLI products that solve real problems for devs and ops.
 - 📚 I teach through Fearless in Rust and give back by sharing what I learn.
 
-![Commits This Year](https://img.shields.io/badge/Commits_This_Year-69-informational?style=flat&logo=github)
+![Commits This Year](https://img.shields.io/badge/Commits_This_Year-207-informational?style=flat&logo=github)
 
 <br/>
 
