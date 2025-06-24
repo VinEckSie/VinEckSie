@@ -29,10 +29,12 @@ I develop high-performance Rust software with a strong focus on systems programm
 ## 🧩 Core Products
 
 ### 🧠 [RustPulse](https://github.com/VinEckSie/RustPulse) – Real-Time Server Monitoring System
+[<img alt="github" src="https://img.shields.io/badge/github-vinecksie/rustpulse-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="20">](https://github.com/vinecksie/rustpulse)
+[<img alt="crates.io" src="https://img.shields.io/crates/v/rustpulse.svg?style=for-the-badge&color=fc8d62&logo=rust" height="20">](https://crates.io/crates/rustpulse)
+[<img alt="docs.rs" src="https://img.shields.io/badge/docs.rs-rustpulse-66c2a5?style=for-the-badge&labelColor=555555&logo=docs.rs" height="20">](https://docs.rs/rustpulse)
+[<img alt="build status" src="https://img.shields.io/github/actions/workflow/status/vinecksie/rustpulse/ci.yml?branch=main&style=for-the-badge" height="20">](https://github.com/vinecksie/rustpulse/actions?query=branch%3Amain)
+
 > A production-grade monitoring suite built entirely in Rust.  
-
-[![CI](https://img.shields.io/github/actions/workflow/status/VinEckSie/RustPulse/ci.yml?label=CI&logo=github)](https://github.com/VinEckSie/RustPulse/actions) [![Audit](https://img.shields.io/github/actions/workflow/status/VinEckSie/RustPulse/audit.yml?label=Audit&logo=github)](https://github.com/VinEckSie/RustPulse/actions/) [![Last Commit](https://img.shields.io/github/last-commit/VinEckSie/rustpulse?label=Last%20Commit)](https://github.com/VinEckSie/rustpulse/commits/main)
-
 
 - 📊 Real-time metrics: CPU, RAM, Disk, Network  
 - 🔐 REST and gRPC APIs secured with JWT authentication  
@@ -41,10 +43,12 @@ I develop high-performance Rust software with a strong focus on systems programm
 <br/>
 
 ## 📖 Sealed in Rust — My Cryptography Book
+[![Docs](https://img.shields.io/badge/Docs-Online-blue?style=flat&logo=readthedocs)](https://VinEckSie.github.io/sealed-in-rust)
+[<img alt="github" src="https://img.shields.io/badge/github-vinecksie/rustpulse-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="20">](https://github.com/vinecksie/rustpulse)
+[<img alt="build status" src="https://img.shields.io/github/actions/workflow/status/vinecksie/rustpulse/ci.yml?branch=main&style=for-the-badge" height="20">](https://github.com/vinecksie/rustpulse/actions?query=branch%3Amain)
+
 📘 [Start reading the book](https://VinEckSie.github.io/sealed-in-rust) — chapters released progressively.
 > A hands-on guide to implementing cryptographic algorithms in idiomatic Rust.
-
-[![Docs](https://img.shields.io/badge/Docs-Online-blue?style=flat&logo=readthedocs)](https://VinEckSie.github.io/sealed-in-rust) [![Last Commit](https://img.shields.io/github/last-commit/VinEckSie/sealed-in-rust?label=Last%20Commit)](https://github.com/VinEckSie/sealed-in-rust/commits/main)
 
 - Covers AES, RSA, SHA2, Diffie-Hellman, and modern primitives  
 - Real-world focus: secure APIs, zero-copy patterns, and a bonus on blockchain & aerospace algorithms 
@@ -69,7 +73,8 @@ I develop high-performance Rust software with a strong focus on systems programm
 📂 [Browse the challenge repo](https://github.com/VinEckSie/side-skills-products)
 > I'm sharpening my Rust skills through real-world system design and platform tooling.
 
-[![CI](https://img.shields.io/github/actions/workflow/status/VinEckSie/RustPulse/ci.yml?label=CI&logo=github)](https://github.com/VinEckSie/RustPulse/actions/workflows/ci.yml) [![Audit](https://img.shields.io/github/actions/workflow/status/VinEckSie/RustPulse/audit.yml?label=Audit&logo=github)](https://github.com/VinEckSie/RustPulse/actions/workflows/audit.yml) [![Last Commit](https://img.shields.io/github/last-commit/VinEckSie/RustPulse?label=Last%20Commit)](https://github.com/VinEckSie/RustPulse/commits/main)
+[<img alt="github" src="https://img.shields.io/badge/github-vinecksie/rustpulse-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="20">](https://github.com/vinecksie/rustpulse)
+[<img alt="build status" src="https://img.shields.io/github/actions/workflow/status/vinecksie/rustpulse/ci.yml?branch=main&style=for-the-badge" height="20">](https://github.com/vinecksie/rustpulse/actions?query=branch%3Amain)
 
 - 🧱 HTTP server, Redis, Kafka, DNS resolver, SQLite engine, and more from CodeCrafters challenges
 - 🧭 Docker, Kubernetes, gRPC, Prometheus, Grafana, and beyond from personal implementations
