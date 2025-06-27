@@ -3,7 +3,7 @@
 <p align="center">
   <em>Rust Software Engineer • Applied Cryptography • Backend & Systems Programming</em><br/>
   <strong>Security and performance aren’t trade-offs — I deliver both.</strong><br/><br/>
-  <a href="mailto:vincent.rust.dev@protonmail.com">Contact Me</a> • 
+  <a href="mailto:vinecksie@pm.me">Contact Me</a> • 
   <a href="https://www.notion.so/YOUR-LINK">My Portfolio</a> • 
   <a href="https://www.linkedin.com/in/vincent-eckert-sierota/">LinkedIn</a>
 </p>
