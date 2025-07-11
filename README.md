@@ -101,9 +101,9 @@ I develop high-performance Rust software with a strong focus on systems programm
 
 <br/>
 
-## 📊 My GitHub Activity
+## 📊 GitHub Activity
 
-<img src="https://raw.githubusercontent.com/VinEckSie/VinEckSie/refs/heads/main/profile-3d-contrib/profile-green-animate.svg?token=GHSAT0AAAAAADADZNVNIBOF7YAF6I5P6LX42DQZK6A" alt="3D GitHub Contribution Graph" style="width:100%;" />
+[![RustPulse](./assets/profile-green-animate.svg)](https://github.com/VinEckSie/RustPulse)
 
 
 <br/>
