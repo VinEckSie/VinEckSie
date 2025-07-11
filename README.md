@@ -1,27 +1,18 @@
 <h1 align="center">Hi 👋 I'm Vincent 🦀</h1>
-📌 <strong>Start here →</strong> <a href="https://github.com/VinEckSie/RustPulse">RustPulse: Real-Time Telemetry Engine</a>
 
 <p align="center">
+  📌 <strong>Start here:</strong><br/>
+  <a href="https://github.com/VinEckSie/RustPulse">RustPulse</a> • 
+  <a href="https://github.com/VinEckSie/sealed-in-rust">My Rust Book</a> • 
+  <a href="https://www.youtube.com/@FearlessInRust">YouTube Channel</a><br/><br/>
   <em>Rust Software Engineer • Applied Cryptography • Backend & Systems Programming</em><br/>
   <strong>Security and performance aren’t trade-offs — I deliver both.</strong><br/><br/>
   <a href="mailto:vinecksie@pm.me">Contact Me</a> • 
-  <a href="https://www.notion.so/YOUR-LINK">My Portfolio</a> • 
+  <a href="https://www.notion.so/YOUR-LINK">Portfolio</a> • 
   <a href="https://www.linkedin.com/in/vincent-eckert-sierota/">LinkedIn</a>
 </p>
 
 <br/>
-
-<h1 align="center">Hi 👋 I'm Vincent 🦀</h1>
-
-<p align="center">
-  <strong>📌 <a href="https://github.com/VinEckSie/RustPulse">Start here → RustPulse: Real-Time Telemetry Engine</a></strong><br/>
-  <em>Rust Software Engineer • Applied Cryptography • Backend & Systems Programming</em><br/>
-  <strong>Security and performance aren’t trade-offs — I deliver both.</strong><br/><br/>
-  <a href="mailto:vinecksie@pm.me">Contact Me</a> • 
-  <a href="https://www.notion.so/YOUR-LINK">My Portfolio</a> • 
-  <a href="https://www.linkedin.com/in/vincent-eckert-sierota/">LinkedIn</a>
-</p>
-
 
 ## 🚀 What I Build
 
