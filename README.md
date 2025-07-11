@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋 I'm Vincent 🦀</h1>
+📌 <strong>Start here →</strong> <a href="https://github.com/VinEckSie/RustPulse">RustPulse: Real-Time Telemetry Engine</a>
 
 <p align="center">
   <em>Rust Software Engineer • Applied Cryptography • Backend & Systems Programming</em><br/>
@@ -9,6 +10,18 @@
 </p>
 
 <br/>
+
+<h1 align="center">Hi 👋 I'm Vincent 🦀</h1>
+
+<p align="center">
+  <strong>📌 <a href="https://github.com/VinEckSie/RustPulse">Start here → RustPulse: Real-Time Telemetry Engine</a></strong><br/>
+  <em>Rust Software Engineer • Applied Cryptography • Backend & Systems Programming</em><br/>
+  <strong>Security and performance aren’t trade-offs — I deliver both.</strong><br/><br/>
+  <a href="mailto:vinecksie@pm.me">Contact Me</a> • 
+  <a href="https://www.notion.so/YOUR-LINK">My Portfolio</a> • 
+  <a href="https://www.linkedin.com/in/vincent-eckert-sierota/">LinkedIn</a>
+</p>
+
 
 ## 🚀 What I Build
 
@@ -83,19 +96,6 @@ I develop high-performance Rust software with a strong focus on systems programm
 
 <br/>
 
-## 🛠️ My Rust Toolchain
-
-I ship real products in Rust — from secure cryptographic libraries to async system tools.
-
-- 🦀 Core: Rust • Cargo • tokio • clap • serde
-- 🔧 Hexagonal Architecture | 🌀 Domain-Driven Design | ✅ Test-Driven Development
-- 🧪 CI & Testing: GitHub Actions • criterion • thiserror  
-- 🔐 Cryptography & CLI: zero-copy, safe abstractions, custom primitives  
-- 📊 Systems Monitoring: async pipelines, structured logging  
-- ⚙️ Dev Workflow: RustRover • rust-analyzer • Makefiles • Linux • Zsh
-
-<br/>
-
 ## 🌍 Languages I Use
 
 | Language   | Proficiency    |
@@ -104,7 +104,15 @@ I ship real products in Rust — from secure cryptographic libraries to async sy
 | 🇬🇧 English  | C1 (IELTS prep) |
 | 🇩🇪 German   | B1 (intermediate) |
 
+<!--
 <a href="https://github.com/VinEckSie" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinEckSie&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+-->
+
+<br/>
+
+## 📊 My GitHub Activity
+
+<img src="https://raw.githubusercontent.com/VinEckSie/VinEckSie/refs/heads/main/profile-3d-contrib/profile-green-animate.svg?token=GHSAT0AAAAAADADZNVNIBOF7YAF6I5P6LX42DQZK6A" alt="3D GitHub Contribution Graph" style="width:100%;" />
 
 
 <br/>
