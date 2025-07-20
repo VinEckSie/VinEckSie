@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋 I'm Vincent 🦀</h1>
+<h1 align="center">Hi 👋 I'm Vincent</h1>
 
 <p align="center">
   📌 <strong>Start here:</strong><br/>
   <a href="https://github.com/VinEckSie/RustPulse">RustPulse</a> • 
   <a href="https://github.com/VinEckSie/sealed-in-rust">My Rust Book</a> • 
   <a href="https://www.youtube.com/@FearlessInRust">YouTube Channel</a><br/><br/>
-  <em>Rust Software Engineer • Applied Cryptography • Backend & Systems Programming</em><br/>
+  <em>Rust Software Engineer • Applied Cryptography • Systems Programming</em><br/>
   <strong>Security and performance aren’t trade-offs — I deliver both.</strong><br/><br/>
   <a href="mailto:vinecksie@pm.me">Contact Me</a> • 
   <a href="https://www.notion.so/YOUR-LINK">Portfolio</a> • 
-  <a href="https://www.linkedin.com/in/vincent-eckert-sierota/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/vincent-e-926828bb/">LinkedIn</a>
 </p>
 
 <br/>
@@ -21,10 +21,9 @@ I develop high-performance Rust software with a strong focus on systems programm
 <br/>
 
 ## 🎯 My Vision
-
-- 🛡️ I build secure, production-grade Rust tools for monitoring and cryptography.
-- 🧰 I focus on CLI products that solve real problems for devs and ops.
-- 📚 I teach through Fearless in Rust and give back by sharing what I learn.
+-  I build robust cryptography tools in Rust, with a strong focus on security, performance, and real-world usability.
+-  I'm naturally drawn to domains like aerospace, defense, decentralized systems, and healthcare — where reliability isn't optional.
+  -  Through Sealed in Rust and Fearless in Rust, I teach what I learn and help others build confidently with Rust.
 
 ![Commits This Year](https://img.shields.io/badge/Commits_This_Year-207-informational?style=flat&logo=github)
 
@@ -32,7 +31,7 @@ I develop high-performance Rust software with a strong focus on systems programm
 
 ## 🧩 Core Products
 
-### 🧠 [RustPulse](https://github.com/VinEckSie/RustPulse) – Real-Time Server Monitoring System
+### RustPulse – Real-Time Server Monitoring System
 [<img alt="github" src="https://img.shields.io/badge/github-vinecksie/rustpulse-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="20">](https://github.com/vinecksie/rustpulse)
 [<img alt="crates.io" src="https://img.shields.io/crates/v/rustpulse.svg?style=for-the-badge&color=fc8d62&logo=rust" height="20">](https://crates.io/crates/rustpulse)
 [<img alt="docs.rs" src="https://img.shields.io/badge/docs.rs-rustpulse-66c2a5?style=for-the-badge&labelColor=555555&logo=docs.rs" height="20">](https://docs.rs/rustpulse)
