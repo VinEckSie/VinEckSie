@@ -33,22 +33,26 @@ I develop high-performance Rust software with a strong focus on systems programm
 
 ### RustPulse – Real-Time Server Monitoring System
 [<img alt="github" src="https://img.shields.io/badge/github-vinecksie/rustpulse-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="20">](https://github.com/vinecksie/rustpulse)
+[<img alt="build status" src="https://img.shields.io/github/actions/workflow/status/vinecksie/rustpulse/ci.yml?branch=main&style=for-the-badge" height="20">](https://github.com/vinecksie/rustpulse/actions?query=branch%3Amain)
 [<img alt="crates.io" src="https://img.shields.io/crates/v/rustpulse.svg?style=for-the-badge&color=fc8d62&logo=rust" height="20">](https://crates.io/crates/rustpulse)
 [<img alt="docs.rs" src="https://img.shields.io/badge/docs.rs-rustpulse-66c2a5?style=for-the-badge&labelColor=555555&logo=docs.rs" height="20">](https://docs.rs/rustpulse)
-[<img alt="build status" src="https://img.shields.io/github/actions/workflow/status/vinecksie/rustpulse/ci.yml?branch=main&style=for-the-badge" height="20">](https://github.com/vinecksie/rustpulse/actions?query=branch%3Amain)
 
-> A production-grade monitoring suite built entirely in Rust.  
+> A secure, real-time telemetry engine built entirely in Rust for mission-critical monitoring.
+- Edge-ready metrics: CPU, RAM, Disk, Network — fast and local
+- API-first design: REST & gRPC with JWT-based authentication
+- Persistent telemetry: PostgreSQL & JSONL for reliable storage and auditing
 
-- 📊 Real-time metrics: CPU, RAM, Disk, Network  
-- 🔐 REST and gRPC APIs secured with JWT authentication  
-- 🗃 PostgreSQL for persistent metrics and alert history  
+### Cryon (Launching Fall 2025)
+> Cryptography Crate for Zero-Trust Rust Systems
+> 
+### Lendra (Launching Winter 2025) 
+> Decentralized Crowdlending Platform for Worldwide Lending Access
 
 <br/>
 
-## 📖 Sealed in Rust — My Cryptography Book
-[![Docs](https://img.shields.io/badge/Docs-Online-blue?style=flat&logo=readthedocs)](https://VinEckSie.github.io/sealed-in-rust)
-[<img alt="github" src="https://img.shields.io/badge/github-vinecksie/rustpulse-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="20">](https://github.com/vinecksie/rustpulse)
-[<img alt="build status" src="https://img.shields.io/github/actions/workflow/status/vinecksie/rustpulse/ci.yml?branch=main&style=for-the-badge" height="20">](https://github.com/vinecksie/rustpulse/actions?query=branch%3Amain)
+## 📖🔐 Sealed in Rust — A Practical Guide to Cryptography
+[![Book](https://img.shields.io/badge/Book-Online-blue?style=flat&logo=readthedocs)](https://VinEckSie.github.io/sealed-in-rust)
+[<img alt="github" src="https://img.shields.io/badge/github-vinecksie/sealedinrust-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="20">](https://github.com/vinecksie/sealed-in-rust)
 
 📘 [Start reading the book](https://VinEckSie.github.io/sealed-in-rust) — chapters released progressively.
 > A hands-on guide to implementing cryptographic algorithms in idiomatic Rust.
