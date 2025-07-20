@@ -32,10 +32,12 @@ I develop high-performance Rust software with a strong focus on systems programm
 ## 🧩 Core Products
 
 ### RustPulse – Real-Time Server Monitoring System
-[<img alt="github" src="https://img.shields.io/badge/github-vinecksie/rustpulse-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="20">](https://github.com/vinecksie/rustpulse)
+[<img alt="github" src="https://img.shields.io/badge/RUSTPULSE-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="20">](https://github.com/vinecksie/rustpulse)
 [<img alt="build status" src="https://img.shields.io/github/actions/workflow/status/vinecksie/rustpulse/ci.yml?branch=main&style=for-the-badge" height="20">](https://github.com/vinecksie/rustpulse/actions?query=branch%3Amain)
+<!--
 [<img alt="crates.io" src="https://img.shields.io/crates/v/rustpulse.svg?style=for-the-badge&color=fc8d62&logo=rust" height="20">](https://crates.io/crates/rustpulse)
 [<img alt="docs.rs" src="https://img.shields.io/badge/docs.rs-rustpulse-66c2a5?style=for-the-badge&labelColor=555555&logo=docs.rs" height="20">](https://docs.rs/rustpulse)
+-->
 
 > A secure, real-time telemetry engine built entirely in Rust for mission-critical monitoring.
 - Edge-ready metrics: CPU, RAM, Disk, Network — fast and local
@@ -51,8 +53,8 @@ I develop high-performance Rust software with a strong focus on systems programm
 <br/>
 
 ## 🔐 Sealed in Rust — A Practical Guide to Cryptography
+[<img alt="github" src="https://img.shields.io/badge/SEALED_IN_RUST-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="20">](https://github.com/vinecksie/sealed-in-rust)
 [![Book](https://img.shields.io/badge/Book-Online-blue?style=flat&logo=readthedocs)](https://VinEckSie.github.io/sealed-in-rust)
-[<img alt="github" src="https://img.shields.io/badge/github-vinecksie/sealedinrust-8da0cb?style=for-the-badge&labelColor=555555&logo=github" height="20">](https://github.com/vinecksie/sealed-in-rust)
 
 📖 [Start reading now](https://VinEckSie.github.io/sealed-in-rust) — chapters released progressively
 > A hands-on book for Rust developers who want to build secure systems from the ground up — one primitive at a time.
@@ -93,7 +95,7 @@ I develop high-performance Rust software with a strong focus on systems programm
 | Language   | Proficiency    |
 |------------|----------------|
 | 🇫🇷 French   | Native         |
-| 🇬🇧 English  | C1 (IELTS prep) |
+| 🇬🇧 English  | [C1 (IELTS prep)](https://drive.proton.me/urls/FGH49T2Q9W#tdqOX2hJ65Tq)|
 | 🇩🇪 German   | B1 (intermediate) |
 
 <!--
