@@ -7,9 +7,9 @@
   <a href="https://www.youtube.com/@FearlessInRust">YouTube Channel</a><br/><br/>
   <em>Rust Software Engineer • Applied Cryptography • Systems Programming</em><br/>
   <strong>Security and performance aren’t trade-offs — I deliver both.</strong><br/><br/>
-  <a href="mailto:vinecksie@pm.me">Contact Me</a> • 
-  <a href="https://www.notion.so/YOUR-LINK">Portfolio</a> • 
-  <a href="https://www.linkedin.com/in/vincent-e-926828bb/">LinkedIn</a>
+  <a href="mailto:vessystems@pm.me">Contact Me</a> • 
+  <a href="https://vinecksie.super.site/">Portfolio</a> • 
+  <a href="https://www.linkedin.com/in/vincent-eckert-sierota-926828bb/">LinkedIn</a>
 </p>
 
 <br/>
@@ -117,8 +117,8 @@ I develop high-performance Rust software with a strong focus on systems programm
 
 ### 📇 Contact & Profiles  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github)](https://github.com/VinEckSie)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vincent-e-926828bb/)
-[![Email](https://img.shields.io/badge/Email-ProtonMail-8B89CC?style=flat-square&logo=protonmail)](mailto:vinecksie@pm.me)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/vincent-eckert-sierota-926828bb/)
+[![Email](https://img.shields.io/badge/Email-ProtonMail-8B89CC?style=flat-square&logo=protonmail)](mailto:vessystems@pm.me)  
 
 ### 🌍 Communities & Social  
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=flat-square&logo=mastodon)](https://mastodon.social/@vinecksie)
