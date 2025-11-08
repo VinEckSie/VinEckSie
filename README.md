@@ -37,5 +37,4 @@ Rust · Axum · Tonic (gRPC) · PostgreSQL · Redis · Tracing · Prometheus · 
 
 ## 📊 Activity
 
-[![RustPulse](./profile-3d-contrib/profile-green.svg)](https://github.com/VinEckSie/RustPulse)
-
+![GitHub 3D contribution graph](./profile-3d-contrib/profile-season-animate.svg)
