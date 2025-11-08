@@ -31,7 +31,7 @@ Rust · Axum · Tonic (gRPC) · PostgreSQL · Redis · Tracing · Prometheus · 
 
 ## 🌍 Find Me
 
- [WhatsApp Business](https://wa.me/447400700660?text=Hello%2C%20I%27m%20interested%20in%20your%20services) · [LinkedIn](https://www.linkedin.com/in/vincent-eckert-sierota-926828bb/) ￼ · [Email](mailto:vessystems@pm.me)￼
+[Rust Works](https://vinecksie.super.site/) ￼ ·  [WhatsApp Business](https://wa.me/447400700660?text=Hello%2C%20I%27m%20interested%20in%20your%20services) · [LinkedIn](https://www.linkedin.com/in/vincent-eckert-sierota-926828bb/) ￼ · [Email](mailto:vessystems@pm.me)￼
 
 <br/>
 
