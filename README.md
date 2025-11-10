@@ -3,8 +3,8 @@
 ## Rust Engineer 🦀 | Backend · Systems · Security
 
 15 years in enterprise software — now fully focused on Rust.  
-I build **secure**, **high-performance backends** and **distributed systems**, with hands-on experience in **applied cryptography**, **telemetry**, and **systems-level design**.  
-Passionate about leveraging Rust to power the **critical systems of tomorrow — from aerospace and healthcare to smart cities.**
+I build secure, high-performance backends and distributed systems, with hands-on experience in systems-level design.  
+Passionate about leveraging Rust to power the **next-generation critical systems (Aerospace · Health · Infrastructure).**
 
 ￼<br/>
 
