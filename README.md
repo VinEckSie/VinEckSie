@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Vincent</h1>
 
-## Rust Engineer 🦀 | Backend · Systems · Security
+## Rust Engineer for Next-Generation Critical Systems 🦀 | Backend · Systems · Security
 
 15 years in enterprise software — now fully focused on Rust.  
 I build secure, high-performance backends and distributed systems, with hands-on experience in systems-level design.  
