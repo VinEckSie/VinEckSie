@@ -6,7 +6,7 @@
 I build secure, high-performance backends and distributed systems, with hands-on experience in systems-level design.  
 Passionate about leveraging Rust to power the **next-generation critical systems (Aerospace · Health · Infrastructure).**
 
-￼<br/>
+
 
 [🛰 RustPulse￼](https://vinecksie.super.site/rustpulse) — open telemetry engine in Rust
 ([source code](https://github.com/VinEckSie/rustpulse))
@@ -31,7 +31,6 @@ Rust · Axum · Tonic (gRPC) · PostgreSQL · Redis · Tracing · Prometheus · 
 
 [Rust Works](https://vinecksie.super.site/) ￼ ·  [WhatsApp Business](https://wa.me/447400700660?text=Hello%2C%20I%27m%20interested%20in%20your%20services) · [LinkedIn](https://www.linkedin.com/in/vincent-eckert-sierota-926828bb/) ￼ · [Email](mailto:vessystems@pm.me)￼
 
-<br/>
 
 ## 📊 Activity
 
