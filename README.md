@@ -15,20 +15,17 @@ Passionate about leveraging Rust to power the **next-generation critical systems
 
 [📖 Sealed in Rust](https://vinecksie.super.site/sealed-in-rust) — cryptography in Rust, from primitives to practice
 
-<br/>
 
 ## 🧩 What I Build
 - Secure Rust backends and real-time systems
 - Applied cryptography tools (AES, RSA, Ed25519, etc.)
 - Robust architectures for aerospace, defense, and distributed systems
 
-<br/>
 
 ## 🔧 Tech Stack
 
 Rust · Axum · Tonic (gRPC) · PostgreSQL · Redis · Tracing · Prometheus · Docker · Kubernetes · GitHub Actions · JWT · TLS
 
-<br/>
 
 ## 🌍 Find Me
 
