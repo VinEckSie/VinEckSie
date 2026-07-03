@@ -12,6 +12,8 @@ I build well-structured systems with emphasis on architecture, correctness, and 
 [🛰 RustPulse](https://vinecksie.super.site/rustpulse) — telemetry engine in Rust exploring async processing, observability, and clean architecture  
 ([source code](https://github.com/VinEckSie/rustpulse))
 
+[🛡 SyncGuard](https://github.com/VinEckSie/syncguard) — full-stack integration monitoring and reconciliation platform for tracking failed, delayed, missing, and duplicate business transactions
+
 [📖 Sealed in Rust](https://vinecksie.super.site/sealed-in-rust) — applied cryptography in Rust through practical implementations of secure primitives
 
 [🎥 Fearless in Rust](https://www.youtube.com/@FearlessInRust) — educational content on Rust, systems, and secure software design
@@ -26,7 +28,7 @@ Systems design • Async Rust • Distributed systems • Applied cryptography �
 
 ## 🔧 Tech
 
-Rust · gRPC · PostgreSQL · Tracing · Prometheus · Docker · GitHub Actions
+Rust · Python · TypeScript · FastAPI · Next.js · PostgreSQL · SQLAlchemy · Docker · gRPC · Tracing · Prometheus · GitHub Actions
 
 ---
 
