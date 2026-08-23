@@ -1,43 +1,44 @@
 <h1 align="center">Hi 👋 I'm Vincent</h1>
 
-## Rust Engineer 🦀 | Systems · Security · Design
+## Senior Microsoft Dynamics 365 Technical Consultant & Developer
 
-15 years in enterprise software — now fully focused on Rust.  
-I build well-structured systems with emphasis on architecture, correctness, and performance.
+15+ years of experience delivering enterprise solutions across **Dynamics 365, Power Platform, Azure, and enterprise integrations**.
 
----
+I design and develop scalable Microsoft business solutions across the full project lifecycle — from solution design and customization to integration, deployment, and production support.
 
-## 🛰 Projects
-
-[🛰 RustPulse](https://vinecksie.super.site/rustpulse) — telemetry engine in Rust exploring async processing, observability, and clean architecture  
-([source code](https://github.com/VinEckSie/rustpulse))
-
-[🛡 SyncGuard](https://github.com/VinEckSie/syncguard) — full-stack integration monitoring and reconciliation platform for tracking failed, delayed, missing, and duplicate business transactions
-
-[📖 Sealed in Rust](https://vinecksie.super.site/sealed-in-rust) — applied cryptography in Rust through practical implementations of secure primitives
-
-[🎥 Fearless in Rust](https://www.youtube.com/@FearlessInRust) — educational content on Rust, systems, and secure software design
+My GitHub highlights **Microsoft Dynamics 365 Business Central / AL development**, alongside selected **Rust engineering projects** focused on systems, architecture, and security.
 
 ---
 
-## 🧩 Focus
+## 🔷 Microsoft
 
-Systems design • Async Rust • Distributed systems • Applied cryptography • Clean architecture
+### [Dynamics 365 Business Central](https://github.com/VinEckSie/business_central)
 
----
-
-## 🔧 Tech
-
-Rust · Python · TypeScript · FastAPI · Next.js · PostgreSQL · SQLAlchemy · Docker · gRPC · Tracing · Prometheus · GitHub Actions
+Microsoft Dynamics 365 Business Central extensions and AL development projects.
 
 ---
 
-## 🌍 Find Me
+## 🦀 Rust
 
-[Rust Works](https://vinecksie.super.site/) ·  
-[LinkedIn](https://www.linkedin.com/in/vincent-eckert-sierota-926828bb/) ·  
-[Email](mailto:vessystems@pm.me) ·  
-[WhatsApp Business](https://wa.me/447400700660?text=Hello%2C%20I%27m%20interested%20in%20your%20services)
+### [RustPulse](https://github.com/VinEckSie/rustpulse)
+
+Async telemetry engine exploring clean architecture, observability, and reliable distributed systems.
+
+### [Sealed in Rust](https://github.com/VinEckSie/sealed-in-rust)
+
+Applied cryptography through practical Rust implementations and system-oriented design.
+
+---
+
+## 🔧 Expertise
+
+Dynamics 365 · Finance & Operations · Customer Engagement · Business Central · Power Platform · Azure · AL · C# · Enterprise Integrations · Solution Architecture
+
+---
+
+## 🌍 Connect
+
+[LinkedIn](https://www.linkedin.com/in/vincent-eckert-sierota-926828bb/) · [Email](mailto:vessystems@pm.me)
 
 ---
 
